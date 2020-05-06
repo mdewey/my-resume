@@ -1,0 +1,35 @@
+/* custom assignments */
+
+/* v2 colors*/
+
+$primary-color: #43a047;
+$primary-light: #76d275;
+$primary-dark: #00701a;
+$primary-text: #212121;
+
+$secondary-color: #9e9e9e;
+$secondary-light: #cfcfcf;
+$secondary-dark: #707070;
+$secondary-text: #212121;
+
+$dark-text: #212121;
+$light-text: $secondary-light;
+
+$body-color: $secondary-light;
+$header-text-color: $secondary-light;
+/*used */
+
+$contact-link-color: $light-text;
+$picture-border: $primary-light;
+$section-background: $secondary-light;
+$dark-section-background: $primary-dark;
+$background-color: $secondary-light;
+$dark-transparency: rgba(0, 0, 0, 0.5);
+$link-color: $secondary-light;
+$fab-button: $primary-light;
+$fab-text: $primary-text;
+
+$word-cloud-color-1: adjust-hue($primary-color, 90);
+$word-cloud-color-2: adjust-hue($primary-color, 180);
+$word-cloud-color-3: adjust-hue($primary-color, 270);
+$word-cloud-color-4: adjust-hue($primary-color, 0);
