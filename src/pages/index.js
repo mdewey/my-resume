@@ -1,4 +1,6 @@
 import React from "react"
+import { Helmet } from "react-helmet"
+
 import "../style/main.scss"
 
 import WhoAmI from "../components/WhoAmI"
@@ -11,12 +13,22 @@ import Skills from "../components/Skills"
 
 export default () => (
   <>
+    <Helmet>
+      <link
+        rel="stylesheet"
+        href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css"
+      />
+      <script
+        src="https://kit.fontawesome.com/1711e65476.js"
+        crossorigin="anonymous"
+      ></script>
+    </Helmet>
     <WhoAmI />
     <Contact />
     <AboutMe />
     <Employment />
     <Education />
-    <Extras />
     <Skills />
+    <Extras />
   </>
 )

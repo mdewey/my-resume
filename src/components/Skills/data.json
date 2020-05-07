@@ -1,0 +1,131 @@
+{
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "C#",
+        "Node.js",
+        "Python",
+        "CSS",
+        "Javascript",
+        "HTML",
+        "Java",
+        "Ruby",
+        "Go",
+        "VB",
+        "SQL",
+        "Cypher & Neo4j",
+        "PHP",
+        "ColdFusion",
+        "C, C++",
+        "Ada"
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "level": "",
+      "keywords": [
+        "ASP.NET MVC",
+        "ASP.NET Web API",
+        ".NET Core MVC",
+        ".NET Core Web API",
+        "Entity Framework",
+        "Express.js",
+        "Docker",
+        "Handlebars.js",
+        "Pug",
+        "Vue.js",
+        "Angular 1.X",
+        "React.js",
+        "Backbone.js",
+        "Knockout.js",
+        "Mongoose",
+        "Bootstrap",
+        "Foundation",
+        "Social Media APIs (Facebook, Twitter, LinkedIn)",
+        "Google Apps (Maps, Plus, Mirror API)",
+        "Sass & Scss",
+        "TypeScript",
+        "NUnit & XUnit",
+        "Jasmine",
+        "Chrome Extensions"
+      ]
+    },
+    {
+      "name": "Concepts",
+      "level": "",
+      "keywords": [
+        "Functional Programming",
+        "Object Oriented Programming",
+        "RESTful API",
+        "GraphQL",
+        "Mobile First Design",
+        "API First Design",
+        "Test Driven Development",
+        "Requirement Driven Development",
+        "Agile & Scrum",
+        "Design Thinking",
+        "Relational Databases",
+        "NoSQL Databases",
+        "Single Page Apps",
+        "Dependency Injection",
+        "Big Data",
+        "Cloud Computing",
+        "Source Control",
+        "Continuos Integration",
+        "Design Patterns",
+        "Disciplined Entrepreneurship"
+      ]
+    },
+    {
+      "name": "Software Tools",
+      "level": "",
+      "keywords": [
+        "Visual Studio (Code, 2017, 2015)",
+        "Light weight editors (Atom, Sublime)",
+        "Powershell & Terminal",
+        "SQL Management Studio",
+        "Webpack",
+        "Gulp",
+        "Browser Sync",
+        "Npm & Yarn ",
+        "Slack",
+        "Jira, Trello, Asana",
+        "Git",
+        "Github",
+        "Eclipse",
+        "Vim",
+        "Travis CI"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "MS SQL",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDb",
+        "CouchDb",
+        "Oracle",
+        "Neo4j",
+        "DocumentDb",
+        "SQLite"
+      ]
+    },
+    {
+      "name": "Deployment Environments",
+      "level": "",
+      "keywords": [
+        "Azure",
+        "AWS",
+        "Rackspace",
+        "Go Daddy",
+        "Zeit",
+        "Surge",
+        "Docker"
+      ]
+    }
+  ]
+}
