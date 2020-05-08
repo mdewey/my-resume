@@ -271,6 +271,7 @@
       "projects": [
         {
           "name": "Interoperable Performance Assessment [IPA]",
+          "description": "Developed a website & API to display and transfer simulator training data for the US Marines",
           "technology": [
             "MVC4 (C#)",
             "Google Graph API",
@@ -280,7 +281,6 @@
             "CSS"
           ],
           "responsibilities": [
-            "Developed a website & API to display and transfer simulator training data for the US Marines",
             "Worked with end users & designers to figure out what key data points needed to be displayed in a mobile friendly way",
             "Worked with subject-matter experts to develop best practices for storing and transfer group simulator data",
             "Worked with U.S. Army Research Lab to create functional and useful prototypes",
@@ -288,7 +288,21 @@
           ]
         },
         {
+          "name": "Rapid Analysis and Planning Toolkit for Operations and Research (RAPTOR)",
+          "technology": [
+            "MVC4 (C#),Google Graph API, JQuery, MSSQL, HTML5, CSS3"
+          ],
+          "responsibilities": [
+            "Display logistical data for various Navy labs and sub-labs using interactive graphs",
+            "Display any value against any value on an  x-y graph",
+            "Display projections based on current trends",
+            "Designed a database schema allowing data input of any type to be able to be graphed",
+            "Managed a team of developers to ensure a quality product on schedule"
+          ]
+        },
+        {
           "name": "Exam Builder [EB]",
+          "description": "Convert an existing, high traffic site from ColdFusion to Python",
           "technology": [
             "Python",
             "Django",
@@ -308,6 +322,7 @@
         },
         {
           "name": "Learning Experience Manager [LEM]",
+          "description": "Develop a system that tracks formal, informal and experiential learning.",
           "technology": [
             "ASP.NET MVC 4 (C#)",
             "Entity Framework",
@@ -319,12 +334,15 @@
           ],
           "responsibilities": [
             "Led a team of developers to create a NextGen learning management system that tracked all types of learning",
+            "Developed database schema to store data",
+            "Developed mobile friendly web app",
             "Utilized Open-source learning schemas (Experience API, and Open Badges) to create an open ecosystem",
             "Demonstrated and presented the project with clients, potential clients, and industry leaders"
           ]
         },
         {
           "name": "Delan Associates",
+          "description": "Create a web app based off an existing MS Access Database",
           "technology": [
             "ASP.NET MVC 4 (VB)",
             "Entity Framework",
@@ -335,7 +353,6 @@
             "Azure"
           ],
           "responsibilities": [
-            "Create a web app based off an existing MS Access Database",
             "Gather Requirements from end users",
             "Design database to support end users needs",
             "Migrate database from existing system to new custom built system",
@@ -347,9 +364,9 @@
         },
         {
           "name": "United Way of Pennsylvania - State Employee Combined Appeal System",
+          "description": "Inherited system to manage, collect and distribute donations for the United Way of PA",
           "technology": [".NET Framework", "Web Forms", "SQL - Microsoft SQL"],
           "responsibilities": [
-            "Inherited system to manage, collect and distribute donations for the United Way of PA",
             "Upgraded a custom database driven donation management system with a new database schema and functionality ",
             "Debugged and fixed SQL Stored procedures",
             "Extended existing features to better suit client needs",
@@ -359,6 +376,7 @@
         },
         {
           "name": "Circumspex",
+          "description": "Plannig tool that allows organizations to plan for emergencies",
           "technology": [".NET Framework", "Web Forms", "SQL - Microsoft SQL"],
           "responsibilities": [
             "Extended existing site that helped users plan for emergencies",
@@ -371,9 +389,9 @@
         },
         {
           "name": "Paramount Pictures",
+          "description": "Created the UI for the mobile app for Paramount Pictures",
           "technology": ["Android SDK", "Java"],
           "responsibilities": [
-            "Created the UI for the mobile app for Paramount Pictures",
             "Created a dynamically loading scrolling menu for users to view their purchased movies",
             "Developed the menu to be re-useable in other parts of the application",
             "Worked in a timely matter coordinating with other teams",
@@ -382,20 +400,27 @@
         },
         {
           "name": "LIFT Johnstown",
+          "description": "Maintain a CMS for a local charity.",
           "technology": [".NET Framework", "Visual Basic", "Web Forms"],
           "responsibilities": [
-            "Extended and maintained a custom CRM for a local charity",
+            "Extended and maintained a custom CMS for a local charity",
             "Lead outreach, training and delivering of application",
             "Supported client questions, feedback and feature requests"
           ]
         },
         {
           "name": "Gold Star",
+          "description": "Created app that allowed users to give stars to other employees",
           "technology": ["Python", "JQuery", "xAPI", "Twitter API"],
           "responsibilities": [
             "Lead team to design and create a proof of concept app centered around employee recognition",
-            "Created app that allowed users to give stars to other employees",
-            "Integrated system with (Learner Record Stores) to help record learning and competencies"
+            "Integrated system with (Learner Record Stores) to help record learning and competencies",
+            "Demoed app at national conference ,mLearnCon 2012",
+            "Design a sticky experience for the users",
+            "Take an abstract idea and create use cases, requirements and UIs",
+            "Implement original idea",
+            "Design and develop new features ",
+            "Provide support and bug fixes"
           ]
         },
         {
@@ -404,19 +429,6 @@
           "responsibilities": [
             "Consulted and worked with developers to created a plugin for the AI powered Learning Platform GIFT",
             "Developed custom Java Package to aid in integration"
-          ]
-        },
-        {
-          "name": "Rapid Analysis and Planning Toolkit for Operations and Research (RAPTOR)",
-          "technology": [
-            "MVC4 (C#),Google Graph API, JQuery, MSSQL, HTML5, CSS3"
-          ],
-          "responsibilities": [
-            "Display logistical data for various Navy labs and sub-labs using interactive graphs",
-            "Display any value against any value on an  x-y graph",
-            "Display projections based on current trends",
-            "Designed a database schema allowing data input of any type to be able to be graphed",
-            "Managed a team of developers to ensure a quality product on schedule"
           ]
         },
         {
@@ -503,46 +515,6 @@
             "Have course available anytime anywhere",
             "Have course track which pages are being looked at using the Experience API ",
             "Take content provide and organize the content in a way that resembles the courses and displays properly on a mobile device"
-          ]
-        }
-      ]
-    },
-    {
-      "company": "Fuzzy Frabbit",
-      "website": "https://www.example.com",
-      "location": "Boise, Idaho",
-      "position": "Lead Cook",
-      "description": "I cooked the things with the best of them",
-      "startDate": "2013-03-14",
-      "endDate": "2013-12-13",
-      "projects": [
-        {
-          "name": "Filet minion",
-          "technology": ["knife", "sword fighting", "magic"],
-          "responsibilities": [
-            "heated the pan",
-            "cut the meat",
-            "planted veggies"
-          ]
-        }
-      ]
-    },
-    {
-      "company": "The Poppin' Porcupine",
-      "website": "https://www.example.com",
-      "location": "Providence, Rhode Island",
-      "position": "Head Pet Groomer",
-      "description": "I turned your flop mops into the cats meow",
-      "startDate": "2014-02-15",
-      "endDate": "2016-11-18",
-      "projects": [
-        {
-          "name": "Flopsy",
-          "technology": ["air bending", "problem solving", "wizardary"],
-          "responsibilities": [
-            "looking fly",
-            "rock and roll",
-            "random encountering"
           ]
         }
       ]
