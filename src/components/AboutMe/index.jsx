@@ -6,7 +6,7 @@ import pic from "./images/Mark-5.jpg"
 const index = () => {
   return (
     <div className="aboutMe">
-      <img src={pic} alt="Picture of Mark" />
+      <img src={pic} alt="Mark's smiling face" />
       <p>
         Hailing from Pennsylvania, Mark has journeyed to Florida in 2014 to
         tackle life's next chapter. He loves a challenge and strives to create

@@ -3,7 +3,7 @@ import "./style.scss"
 
 const ContactSection = ({ icon, type, data, linkStyle = "" }) => {
   return (
-    <p>
+    <section>
       <i className={icon}></i>
       <p>{type}:</p>
       <p>
@@ -15,7 +15,7 @@ const ContactSection = ({ icon, type, data, linkStyle = "" }) => {
           {data}
         </a>
       </p>
-    </p>
+    </section>
   )
 }
 
@@ -29,7 +29,7 @@ const index = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i class="fab fa-linkedin-in"></i>
+            <i className="fab fa-linkedin-in"></i>
             /in/mark-dewey/
           </a>
         </section>
@@ -39,7 +39,7 @@ const index = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i class="devicon-github-plain"></i>
+            <i className="devicon-github-plain"></i>
             mdewey
           </a>
         </section>

@@ -1,0 +1,551 @@
+{
+  "jobs": [
+    {
+      "company": "Suncoast Developers Guild",
+      "position": "Core Instructor",
+      "location": "St. Petersburg, FL",
+      "website": "http://www.suncoast.io",
+      "startDate": "2017-10-13",
+      "endDate": "2020-05-04",
+      "summary": "Suncoast Developers Guild is a community-driven, not-for-profit, in person code school.",
+      "projects": [
+        {
+          "name": "Full Stack Web Developer Curriculum Developer and Instructor",
+          "technology": [
+            "Web Development",
+            "Problem Solving",
+            "Public Speaking",
+            "Course Design",
+            "User Experience",
+            ".NET Core",
+            "Remote working",
+            "React",
+            "Typescript",
+            "Javascript",
+            "HTML & CSS",
+            "SQL - Postgres",
+            "Object Oriented Programming",
+            "ORMS (EF CORE)",
+            "Documentation"
+          ],
+          "responsibilities": [
+            "Developed 12-week Full Stack curriculum, focusing on modern practices, and technology",
+            "Taught Full Stack engineering course using HTML, CSS, JavaScript, Ruby, React, .NET and SQL",
+            "Developed and Created meet up talks for community outreach; Topics include but are not limited to Typescript, React, .NET Core and Domain Driven Design",
+            "Worked with community members, advisor committees, and board of directors to iteration on course improvements",
+            "Created and communicated best practices on how to be a developer.",
+            "Course topics included, but not limited to: .NET (C#), React,  OOP, Functional Programing, WPF, LINQ, ASP.NET MVC, Razor, Entity Framework, HTML, CSS, JavaScript, JQuery, Relational Database (SQL), and testing"
+          ]
+        },
+        {
+          "name": "Developing Practice APIs",
+          "technology": [
+            ".NET Core",
+            "EF Core",
+            "Docker",
+            "Heroku",
+            "Postgres",
+            "React",
+            "MongoDb",
+            "JSON",
+            "Documentation"
+          ],
+          "responsibilities": [
+            "Created numerous .NET Core Web APIs for students to practice interacting with",
+            "Deployed to Heroku using Docker",
+            "Created Admin dashboards to manage data"
+          ]
+        },
+        {
+          "name": "Custom tooling",
+          "technology": [
+            ".NET Core",
+            "Nuget",
+            "Typescript",
+            "shell scripting",
+            "Node.js",
+            "NPM packaging"
+          ],
+          "responsibilities": [
+            "Created a suite of templates so the students could focus on learning and not infrastructure",
+            "Created custom shell scripts to aid in the automatic grading of homework",
+            "Designed and implemented simple dashboards to display student data in a meaningful way for staff and students"
+          ]
+        },
+        {
+          "name": "Remote Student Tracker A.K.A Cat Herder",
+          "technology": [
+            ".NET Core",
+            "React",
+            "Typescript",
+            "Postgres",
+            "Docker",
+            "Heroku",
+            "Material UI"
+          ],
+          "responsibilities": [
+            "Created online tool to help track students for distances learning",
+            "Custom tools to solve problems the academics team was having",
+            "Developed workflow, interface, data structures, and solution to help foster meaningful student interactions"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "The Iron Yard",
+      "position": "Back End Engineering with .NET Instructor, Full Stack Engineering Instructor",
+      "website": "http://www.theironyard.com",
+      "location": "St. Petersburg, FL",
+      "startDate": "2016-08-29",
+      "endDate": "2017-10-13",
+      "summary": "The Iron Yard offered an immersive web development course to train non-technical individuals to become software engineers. ",
+      "highlights": [
+        "Created custom tools for making the classroom more efficient, includes: template generators, chrome extensions, and custom shell scripts."
+      ],
+      "projects": [
+        {
+          "name": ".NET Instructor",
+          "technology": [
+            ".NET Core",
+            ".NET Framework",
+            "Javascript",
+            "CSS",
+            "SQL - Microsoft SQL",
+            "Azure"
+          ],
+          "responsibilities": [
+            "Developed 12-week .NET curriculum, focusing on modern practices, and technology",
+            "Course topics included, but not limited to: .NET (C#), OOP, Functional Programing, WPF, LINQ, ASP.NET MVC, Razor, Entity Framework, HTML, CSS, JavaScript, JQuery, Relational Database (SQL) and testing",
+            "Taught crash courses to the community on various topics such as .NET Core, Neo4j, .NET Framework and JavaScript",
+            "Taught Full Stack engineering course using a flipped classroom that taught HTML, CSS, JavaScript, Node.js, Express, Ruby, React, Java, .NET, and SQL"
+          ]
+        },
+        {
+          "name": "Flipped Classroom Instructor",
+          "technology": [
+            ".NET Core",
+            ".NET Framework",
+            "Javascript",
+            "CSS",
+            "SQL - Microsoft SQL",
+            "Azure",
+            "Java",
+            "React",
+            "Ruby"
+          ],
+          "responsibilities": [
+            "Delivered Full Stack engineering course using a flipped classroom that taught HTML, CSS, JavaScript, Node.js, Express, Ruby, React, Java, .NET, and SQL",
+            "Iterated on content with the content development team"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Exzeo USA",
+      "position": "Senior Lead Developer",
+      "website": "www.exzeo.com",
+      "startDate": "2014-08-04",
+      "endDate": "2020-01-01",
+      "summary": "Exzeo is an insurance software incubator formed to help its parent company, Homeowner's Choice Insurance. While at Exzeo, lead a team of developers and non-technical staff to be more agile and goal-oriented, while developing prototypes.",
+      "highlights": [],
+      "projects": [
+        {
+          "name": "Alexa Insurance Prototype",
+          "technology": ["AWS Lambda", "DynamoDb", "Node.js", "Voice Design"],
+          "responsibilities": [
+            "Designed, developed and delivered a prototype that allows users to buy flood insurance via Amazon Alexa",
+            "Worked with existed APIs to integrate the product with the existing flood insurance system. "
+          ]
+        },
+        {
+          "name": "TypTap",
+          "technology": [
+            "Node.js",
+            "Jasmine",
+            "MongoDb",
+            "SQL",
+            "Express.js",
+            "Handlebars.js",
+            "JQuery",
+            "Bootstrap",
+            "Angular",
+            "Azure",
+            "AWS"
+          ],
+          "responsibilities": [
+            "Implemented an API first mobile website to create an easy to use method of purchasing & managing flood insurance in Florida",
+            "Led design discussions with subject-matter experts concerning features and project road map",
+            "Designed, developed, tested and maintained API endpoints that were used by other developers",
+            "Acted as a consulted on tech stack choices such as hosting environments, CI servers, source control, and other development process tools"
+          ]
+        },
+        {
+          "name": "AtlasViewer",
+          "technology": [
+            "Node.js",
+            "Express.js",
+            "Mapbox",
+            "JQuery",
+            "Foundation",
+            "Passport.js",
+            "Azure",
+            "MongoDb",
+            "GeoJSON",
+            "Postgres",
+            "Backbone.js",
+            "React.js",
+            "Twilio API"
+          ],
+          "responsibilities": [
+            "Led team in creating a GeoJSON data mapping application for subject-matter experts",
+            "Created an administrator tool to view and manage analytically data. ",
+            "Created an API for easy integration with other systems ",
+            "Created an export functionality to allow subject matter experts to extract important custom data sets",
+            "Added a TOTP authentication system to secure user access"
+          ]
+        },
+        {
+          "name": "VPET",
+          "technology": [
+            ".NET MVC 5 (C#)",
+            "Node.js",
+            "Express.js",
+            "Google Maps",
+            "JQuery",
+            "Bootstrap",
+            "Owin",
+            "Angular",
+            "Web API",
+            "Azure",
+            "DocumentDB",
+            "and MongoDB"
+          ],
+          "responsibilities": [
+            "Designed, created, tested, and maintained a suite of app and supporting infrastructure to collect, manage, and analyze data for the state of Florida",
+            "Converted prototype to production ready system",
+            "Created a Lambda Architecture to handle big data concerns, to speed up analysis, and support administration querying",
+            "Created crowd sourcing information gathering tools to speed up data collection",
+            "Created tools and processes to ensure the data was stored in a secure, highly scalable, and easily exported format"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Stacktive",
+      "position": "Chief Technical Officer & Lead Developer",
+      "website": "www.stacktive.com",
+      "startDate": "2014-11-25",
+      "endDate": "2016-03-14",
+      "summary": "A startup to create a marketplace to have one pass for multiple gyms",
+      "projects": [
+        {
+          "name": "Stacktive Web App",
+          "technology": [
+            ".NET (Webforms and MVC)",
+            "Entity Framework (Database First) ",
+            "MSSQL",
+            "JQuery",
+            "HTML5",
+            "CSS3",
+            "Rackspace",
+            "Phonegap",
+            "and Stripe"
+          ],
+          "responsibilities": [
+            "Rescued a failed time-sensitive project",
+            "Fixed a failed code base",
+            "Set up a development process to more easily create features and iterate faster",
+            "Supported mobile app development ",
+            "Worked with a diverse team with a focus on getting tasks complete"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Problem Solutions",
+      "position": "Lead Software Engineer",
+      "website": "www.problemsolutions.net",
+      "startDate": "2011-05-10",
+      "endDate": "2014-07-14",
+      "summary": "A key member of the \"tiger team\" to jump-start new ideas or save failing projects. Design, developed, and maintain projects for a variety of customers, encompassing commercial and government.",
+      "projects": [
+        {
+          "name": "Interoperable Performance Assessment [IPA]",
+          "technology": [
+            "MVC4 (C#)",
+            "Google Graph API",
+            " JQuery",
+            "MSSQL",
+            "HTML",
+            "CSS"
+          ],
+          "responsibilities": [
+            "Developed a website & API to display and transfer simulator training data for the US Marines",
+            "Worked with end users & designers to figure out what key data points needed to be displayed in a mobile friendly way",
+            "Worked with subject-matter experts to develop best practices for storing and transfer group simulator data",
+            "Worked with U.S. Army Research Lab to create functional and useful prototypes",
+            "Develop code libraries and packages to work with APIs to plug into other system (simulators, websites, LMS, and AI tutors) "
+          ]
+        },
+        {
+          "name": "Exam Builder [EB]",
+          "technology": [
+            "Python",
+            "Django",
+            "Jinja2",
+            "HTML5",
+            "ReportsLabs",
+            "Oracle",
+            "HTML5",
+            "CSS3",
+            "JQuery"
+          ],
+          "responsibilities": [
+            "converted an existing, high traffic site from ColdFusion to Python",
+            "Organized and led a small team to quickly save a failing project",
+            "Used TTD to prohibit regressions"
+          ]
+        },
+        {
+          "name": "Learning Experience Manager [LEM]",
+          "technology": [
+            "ASP.NET MVC 4 (C#)",
+            "Entity Framework",
+            "MSSQL",
+            "JQuery",
+            "Azure",
+            "Knockout.js",
+            "Azure"
+          ],
+          "responsibilities": [
+            "Led a team of developers to create a NextGen learning management system that tracked all types of learning",
+            "Utilized Open-source learning schemas (Experience API, and Open Badges) to create an open ecosystem",
+            "Demonstrated and presented the project with clients, potential clients, and industry leaders"
+          ]
+        },
+        {
+          "name": "Delan Associates",
+          "technology": [
+            "ASP.NET MVC 4 (VB)",
+            "Entity Framework",
+            "MSSQL",
+            "JQuery",
+            "Azure",
+            "Knockout.js",
+            "Azure"
+          ],
+          "responsibilities": [
+            "Create a web app based off an existing MS Access Database",
+            "Gather Requirements from end users",
+            "Design database to support end users needs",
+            "Migrate database from existing system to new custom built system",
+            "Develop custom components to fit end user’s needs",
+            "Write tests to ensure new features and changes did not harm the integrity of the system",
+            "Deploy system to production environment",
+            "Interface with clients on any bugs or support needed"
+          ]
+        },
+        {
+          "name": "United Way of Pennsylvania - State Employee Combined Appeal System",
+          "technology": [".NET Framework", "Web Forms", "SQL - Microsoft SQL"],
+          "responsibilities": [
+            "Inherited system to manage, collect and distribute donations for the United Way of PA",
+            "Upgraded a custom database driven donation management system with a new database schema and functionality ",
+            "Debugged and fixed SQL Stored procedures",
+            "Extended existing features to better suit client needs",
+            "Developed new reports to give end user better insights",
+            "Paired Programmed with other developers to share knowledge and deliver features faster"
+          ]
+        },
+        {
+          "name": "Circumspex",
+          "technology": [".NET Framework", "Web Forms", "SQL - Microsoft SQL"],
+          "responsibilities": [
+            "Extended existing site that helped users plan for emergencies",
+            "Added features such photo uploads, mass import of data and UI modernization",
+            "Worked with clients and stakeholders to ensure client happiness",
+            "Worked on creating test cases and running test suites",
+            "Developed new reports to give end user better insights",
+            "Paired Programmed with other developers to share knowledge and deliver features faster"
+          ]
+        },
+        {
+          "name": "Paramount Pictures",
+          "technology": ["Android SDK", "Java"],
+          "responsibilities": [
+            "Created the UI for the mobile app for Paramount Pictures",
+            "Created a dynamically loading scrolling menu for users to view their purchased movies",
+            "Developed the menu to be re-useable in other parts of the application",
+            "Worked in a timely matter coordinating with other teams",
+            "Ensure the metadata was from activity to activity in the most efficient way"
+          ]
+        },
+        {
+          "name": "LIFT Johnstown",
+          "technology": [".NET Framework", "Visual Basic", "Web Forms"],
+          "responsibilities": [
+            "Extended and maintained a custom CRM for a local charity",
+            "Lead outreach, training and delivering of application",
+            "Supported client questions, feedback and feature requests"
+          ]
+        },
+        {
+          "name": "Gold Star",
+          "technology": ["Python", "JQuery", "xAPI", "Twitter API"],
+          "responsibilities": [
+            "Lead team to design and create a proof of concept app centered around employee recognition",
+            "Created app that allowed users to give stars to other employees",
+            "Integrated system with (Learner Record Stores) to help record learning and competencies"
+          ]
+        },
+        {
+          "name": "GIFT Integration",
+          "technology": ["Java", "xAPI"],
+          "responsibilities": [
+            "Consulted and worked with developers to created a plugin for the AI powered Learning Platform GIFT",
+            "Developed custom Java Package to aid in integration"
+          ]
+        },
+        {
+          "name": "Rapid Analysis and Planning Toolkit for Operations and Research (RAPTOR)",
+          "technology": [
+            "MVC4 (C#),Google Graph API, JQuery, MSSQL, HTML5, CSS3"
+          ],
+          "responsibilities": [
+            "Display logistical data for various Navy labs and sub-labs using interactive graphs",
+            "Display any value against any value on an  x-y graph",
+            "Display projections based on current trends",
+            "Designed a database schema allowing data input of any type to be able to be graphed",
+            "Managed a team of developers to ensure a quality product on schedule"
+          ]
+        },
+        {
+          "name": "Experience API Research - Custom Learner Record Store (LRS) ",
+          "technology": ["Flask", "Python", "JQuery", "MySQL"],
+          "responsibilities": [
+            "Built a custom in house Learner Record Store to comply with the early specifications of the Experience to accept and store xAPI statements ",
+            "Created a fully searchable UI using a JQuery Driven Front-end",
+            "Supported Basic Authentication and Keyed API Access"
+          ]
+        },
+        {
+          "name": "LRCurate",
+          "technology": [
+            "Flask (python)",
+            "JQuery",
+            "ElasticSearch",
+            "Facebook API",
+            "Twitter API",
+            "LinkIn API",
+            "Google+ API",
+            "Celery ",
+            "CouchDB"
+          ],
+          "responsibilities": [
+            "Create a social search engine for the Learning Registry (LR)",
+            "Create a font-end that let the user search the LR for content and then share it across various social sites to their colleagues",
+            "Use Celery to harvest the LR and then user Elastic Search to index the content at scheduled intervals",
+            "Create demo-able prototype",
+            "Intergrated with the Learning Registry",
+            "Generate and send Paradata back to the LR about content that was shared",
+            "Give users th capabilities to send content over various social site",
+            "Set up Elastic Search to index the LR",
+            "Create search engine",
+            "Demo prototype at Plugfest 2"
+          ]
+        },
+        {
+          "name": "Five Minute Relationship",
+          "technology": [
+            "PHP",
+            "MySQL",
+            "JQuery UI",
+            "CSS3",
+            "HTML5",
+            "Facebook API"
+          ],
+          "responsibilities": [
+            "Create a multiplayer game based on a card game prototype",
+            "The game was a game where people would  try to form a relationship with another person in the quickest time",
+            "Create design and requirements from a real card game",
+            "Work with the game designer to create  digital version",
+            "Design, develop, deploy and maintain the game",
+            "Built the game to have a scalable and timeless architect",
+            "Use the Facebook API to get a user’s information and run analytics on it"
+          ]
+        },
+        {
+          "name": "UCLA Web App",
+          "technology": [],
+          "responsibilities": [
+            "Converted an iPhone App into a cross-platform web app that would render properly across all devices and browsers, including Android, iPhones, Desktops, NetBooks and tablets",
+            "Develop the web-app with only be shown a iPhone App",
+            "Work with remote IT professionals to deploy web app"
+          ]
+        },
+        {
+          "name": "Mobile R&D",
+          "technology": ["PHP", "Android SDK"],
+          "responsibilities": [
+            "Goal of the research project was to learn how to use various mobile technology to enhance our products",
+            "Researched mobile web design principles and techniques",
+            "Notable project was A geolocation based guide through the city of Johnstown",
+            "Displayed information to a user when the user was close enough to a notable local landmark",
+            "Used a web service (built in PHP) to commicate to a mobile web-app and a native android app"
+          ]
+        },
+        {
+          "name": "Mobile Resources Guides",
+          "technology": ["ASP.NET", "HTML5 CSS3", "Visual Studio 2010"],
+          "responsibilities": [
+            "Created a scaffolding to create a mobile friendly resource guide as quickly as possible",
+            "Create a cross platform mobile reference guide to aid in learning and re-learning after taking a course ( in person or online)",
+            "Have course available anytime anywhere",
+            "Have course track which pages are being looked at using the Experience API ",
+            "Take content provide and organize the content in a way that resembles the courses and displays properly on a mobile device"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Fuzzy Frabbit",
+      "website": "https://www.example.com",
+      "location": "Boise, Idaho",
+      "position": "Lead Cook",
+      "description": "I cooked the things with the best of them",
+      "startDate": "2013-03-14",
+      "endDate": "2013-12-13",
+      "projects": [
+        {
+          "name": "Filet minion",
+          "technology": ["knife", "sword fighting", "magic"],
+          "responsibilities": [
+            "heated the pan",
+            "cut the meat",
+            "planted veggies"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "The Poppin' Porcupine",
+      "website": "https://www.example.com",
+      "location": "Providence, Rhode Island",
+      "position": "Head Pet Groomer",
+      "description": "I turned your flop mops into the cats meow",
+      "startDate": "2014-02-15",
+      "endDate": "2016-11-18",
+      "projects": [
+        {
+          "name": "Flopsy",
+          "technology": ["air bending", "problem solving", "wizardary"],
+          "responsibilities": [
+            "looking fly",
+            "rock and roll",
+            "random encountering"
+          ]
+        }
+      ]
+    }
+  ]
+}

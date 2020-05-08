@@ -5,13 +5,13 @@ const index = () => {
   return (
     <div>
       <h1>Skills</h1>
-      {skills.map(skill => {
+      {skills.map((skill, index) => {
         return (
-          <section className={skill.name}>
-            <header>{skill.name}</header>
+          <section className={skill.name} key={index}>
+            <h2>{skill.name}</h2>
             <ul>
-              {skill.keywords.map(word => {
-                return <li>{word}</li>
+              {skill.keywords.map((word, index) => {
+                return <li key={index}>{word}</li>
               })}
             </ul>
           </section>

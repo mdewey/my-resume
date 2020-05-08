@@ -8,7 +8,6 @@ const index = () => {
       <h2>Aug. 2007 - May 2011</h2>
       <h2>GPA: 3.7</h2>
       <h3>Presidential Scholar</h3>
-      <h3></h3>
       <section className="notable-classes">
         <header>Notable Classes</header>
         <ul>
