@@ -23,8 +23,10 @@ export default () => (
         crossorigin="anonymous"
       ></script>
     </Helmet>
-    <WhoAmI />
-    <Contact />
+    <header className="header">
+      <WhoAmI />
+      <Contact />
+    </header>
     <AboutMe />
     <Employment />
     <Education />

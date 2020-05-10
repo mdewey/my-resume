@@ -3,10 +3,10 @@ import "./style.scss"
 
 const ContactSection = ({ icon, type, data, linkStyle = "" }) => {
   return (
-    <section>
+    <section className="contact-section">
       <i className={icon}></i>
-      <p>{type}:</p>
-      <p>
+      <p className="label">{type}:</p>
+      <p className="data">
         <a
           href={linkStyle ? `${linkStyle}:${data}` : data}
           target="_blank"
@@ -30,7 +30,7 @@ const index = () => {
             rel="noopener noreferrer"
           >
             <i className="fab fa-linkedin-in"></i>
-            /in/mark-dewey/
+            <p>/in/mark-dewey</p>
           </a>
         </section>
         <section className="github">
@@ -40,7 +40,7 @@ const index = () => {
             rel="noopener noreferrer"
           >
             <i className="devicon-github-plain"></i>
-            mdewey
+            <p>mdewey</p>
           </a>
         </section>
       </section>

@@ -1,1 +1,59 @@
 @import "../../style/variables";
+
+.contact-me {
+  width: 50vw;
+  a {
+    text-decoration: none;
+  }
+
+  .social-media {
+    display: flex;
+    justify-content: flex-end;
+    .linkedin,
+    .github {
+      a {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.25rem;
+      }
+      i,
+      svg {
+        font-size: 3rem;
+        text-decoration: none;
+        background-color: black;
+        color: white;
+        border-radius: 5rem;
+      }
+
+      * {
+        padding: 0.25rem;
+      }
+    }
+  }
+  .contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    .contact-section {
+      display: flex;
+      align-items: center;
+      * {
+        text-transform: uppercase;
+        padding: 0.1rem;
+      }
+      svg,
+      .label {
+        padding-right: 1rem;
+        color: grey;
+      }
+      .data {
+        font-weight: bold;
+        text-transform: none;
+      }
+    }
+  }
+}
