@@ -1,1 +1,32 @@
 @import "../../style/variables";
+
+.education {
+  border-bottom: 0.2rem dashed black;
+  width: 100%;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  .notable-classes {
+    width: 60%;
+    header {
+      font-style: italic;
+      padding: 0.25rem;
+    }
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+      li {
+        padding: 0.25rem;
+        margin: 0.25rem;
+        border-radius: 2rem;
+        font-size: 1.2rem;
+      }
+      li::after {
+        content: " ";
+      }
+      li::before {
+        content: " ";
+      }
+    }
+  }
+}
