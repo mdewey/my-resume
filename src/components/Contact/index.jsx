@@ -39,7 +39,7 @@ const index = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i class="fab fa-github"></i>
+            <i className="fab fa-github"></i>
             {/* <p>mdewey</p> */}
           </a>
         </section>

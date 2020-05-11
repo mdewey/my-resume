@@ -15,7 +15,7 @@ h1 {
   color: $primary-color;
 }
 
-header {
+.header {
   display: flex;
   justify-content: space-around;
   border-bottom: 0.2rem dashed black;
@@ -28,4 +28,8 @@ header {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+ul {
+  list-style: none;
 }
