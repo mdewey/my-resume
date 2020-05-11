@@ -2,11 +2,14 @@ import React from "react"
 import "./style.scss"
 const index = () => {
   return (
-    <div>
-      <p>Advisory board for PTech</p>
-      <p>Start up weekend winner</p>
-      <p>Completed Music Thoery course on Couresa</p>
-      <p>Eagle Scout; Awarded May 2006</p>
+    <div className="extras">
+      <h1>Extras</h1>
+      <ul>
+        <li>Advisory board for PTech</li>
+        <li>Start up weekend winner</li>
+        <li>Completed Music Theory course on Couresa</li>
+        <li>Eagle Scout; Awarded May 2006</li>
+      </ul>
     </div>
   )
 }

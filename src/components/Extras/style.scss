@@ -1,1 +1,25 @@
 @import "../../style/variables";
+
+.extras {
+  padding: 2rem;
+  width: 100%;
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    li {
+      padding: 0.25rem;
+      margin: 0.25rem;
+      border-radius: 2rem;
+      font-size: 1.2rem;
+    }
+    li::after {
+      content: ",";
+    }
+    li:last-child::after {
+      content: "";
+    }
+    li::before {
+      content: " ";
+    }
+  }
+}
