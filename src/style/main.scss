@@ -1,4 +1,15 @@
 @import "./variables";
+@import "./reset";
+
+html {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  max-width: 1170px;
+}
 
 h1 {
   color: $primary-color;
@@ -10,4 +21,11 @@ header {
   border-bottom: 0.2rem dashed black;
   margin-top: 3rem;
   padding-bottom: 1rem;
+}
+
+#gatsby-focus-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }

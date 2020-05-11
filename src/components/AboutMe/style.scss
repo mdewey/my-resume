@@ -1,1 +1,27 @@
 @import "../../style/variables";
+
+.about-me {
+  padding: 4rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-bottom: 0.2rem dashed black;
+  * {
+    margin: 1rem;
+  }
+  .picture {
+    width: 25vw;
+  }
+  .welcome-message {
+    font-size: 1.2rem;
+  }
+  .face-pic {
+    height: 15rem;
+    width: 15rem;
+    border: 0.25em $picture-border solid;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-size: 100%;
+  }
+}

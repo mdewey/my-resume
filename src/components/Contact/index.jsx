@@ -5,7 +5,7 @@ const ContactSection = ({ icon, type, data, linkStyle = "" }) => {
   return (
     <section className="contact-section">
       <i className={icon}></i>
-      <p className="label">{type}:</p>
+      {/* <p className="label">{type}:</p> */}
       <p className="data">
         <a
           href={linkStyle ? `${linkStyle}:${data}` : data}
@@ -30,7 +30,7 @@ const index = () => {
             rel="noopener noreferrer"
           >
             <i className="fab fa-linkedin-in"></i>
-            <p>/in/mark-dewey</p>
+            {/* <p>/in/mark-dewey</p> */}
           </a>
         </section>
         <section className="github">
@@ -39,8 +39,8 @@ const index = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="devicon-github-plain"></i>
-            <p>mdewey</p>
+            <i class="fab fa-github"></i>
+            {/* <p>mdewey</p> */}
           </a>
         </section>
       </section>

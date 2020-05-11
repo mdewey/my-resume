@@ -1,7 +1,7 @@
 @import "../../style/variables";
 
 .contact-me {
-  width: 50vw;
+  width: 35vw;
   a {
     text-decoration: none;
   }
@@ -21,10 +21,25 @@
       i,
       svg {
         font-size: 3rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 3rem;
+        width: 3rem;
         text-decoration: none;
+        color: black;
+        border-radius: 5rem;
+        transform: scale3d(0.9, 0.9, 0.9);
+        transition: linear 0.3s;
+      }
+
+      i:hover,
+      svg:hover {
+        border: none;
         background-color: black;
         color: white;
-        border-radius: 5rem;
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
       }
 
       * {
@@ -39,8 +54,10 @@
     justify-content: space-around;
     flex-wrap: wrap;
     .contact-section {
+      margin-bottom: 0.75rem;
       display: flex;
       align-items: center;
+      flex-direction: row-reverse;
       * {
         text-transform: uppercase;
         padding: 0.1rem;
