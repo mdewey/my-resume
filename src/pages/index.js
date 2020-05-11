@@ -22,6 +22,7 @@ export default () => (
         src="https://kit.fontawesome.com/1711e65476.js"
         crossorigin="anonymous"
       ></script>
+      <title>Mark Dewey's Resume</title>
     </Helmet>
     <header className="header">
       <WhoAmI />
