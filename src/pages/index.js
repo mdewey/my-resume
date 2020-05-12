@@ -40,7 +40,7 @@ export default () => {
         <Education />
         <Skills />
         <Extras />
-        <ShowAllToggle />
+        {/* <ShowAllToggle /> */}
       </ShowAllContext.Provider>
     </>
   )
