@@ -1,7 +1,8 @@
 @import "../../style/variables";
 
 .extras {
-  padding: 2rem;
+  padding-left: 5rem;
+  padding-top: 1rem;
   width: 100%;
   ul {
     padding: 1rem;
@@ -19,14 +20,12 @@
     li:last-child::after {
       content: "";
     }
-    li::before {
-      content: " ";
-    }
   }
 }
 
 @media (max-width: 899px) {
   .extras {
+    width: 100vw;
     padding-left: 10vw;
   }
 }

@@ -31,5 +31,9 @@
   .about-me {
     flex-direction: column;
     margin: 0rem;
+    width: 100vw;
+    .picture {
+      width: initial;
+    }
   }
 }

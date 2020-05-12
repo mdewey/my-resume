@@ -5,7 +5,10 @@
 
   display: flex;
   justify-content: space-between;
-  padding-bottom: 2rem;
+  width: 100%;
+  padding-left: 5rem;
+  padding-top: 1rem;
+
   section {
     padding: 1rem;
   }
@@ -37,6 +40,7 @@
 @media (max-width: 899px) {
   .education {
     flex-direction: column;
+    width: 100vw;
     padding-left: 10vw;
   }
 }

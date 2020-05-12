@@ -3,7 +3,9 @@
 .skills {
   border-bottom: 0.2rem dashed black;
   width: 100%;
-  margin: 2rem;
+  padding-left: 5rem;
+  padding-top: 1rem;
+
   section {
     padding: 1rem;
   }
@@ -29,6 +31,7 @@
 }
 @media (max-width: 899px) {
   .skills {
+    width: 100vw;
     padding-left: 10vw;
   }
 }

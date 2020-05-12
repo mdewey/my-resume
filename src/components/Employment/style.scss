@@ -3,15 +3,13 @@
 .employment {
   border-bottom: 0.2rem dashed black;
   width: 100%;
-  h1 {
-    text-align: center;
-  }
-  margin-top: 4rem;
+  padding-left: 5rem;
+  padding-top: 1rem;
   .job {
     &:last-child {
       border-bottom: none;
     }
-    padding-top: 3rem;
+    padding: 1rem;
     display: flex;
     justify-content: space-between;
     border-bottom: 5px dotted lightgray;
@@ -78,4 +76,18 @@
 }
 
 @media (max-width: 899px) {
+  .employment {
+    width: 100vw;
+    padding-left: 10vw;
+    .job {
+      flex-direction: column;
+      width: 100%;
+      .details {
+        width: 100%;
+      }
+      .summary {
+        width: 100%;
+      }
+    }
+  }
 }
