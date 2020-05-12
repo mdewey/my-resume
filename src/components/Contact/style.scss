@@ -79,12 +79,13 @@
   .contact-me {
     width: 100vw;
     .social-media {
-      justify-content: space-evenly;
+      justify-content: center;
     }
     .contact-info {
       align-items: center;
       .contact-section {
         flex-direction: row;
+        width: 50vw;
       }
     }
   }

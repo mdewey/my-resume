@@ -77,11 +77,12 @@
 
 @media (max-width: 899px) {
   .employment {
-    width: 100vw;
+    width: 90vw;
     padding-left: 10vw;
     .job {
       flex-direction: column;
-      width: 100%;
+      width: 90vw;
+      padding: 0;
       .details {
         width: 100%;
       }
