@@ -74,3 +74,18 @@
     }
   }
 }
+
+@media (max-width: 899px) {
+  .contact-me {
+    width: 100vw;
+    .social-media {
+      justify-content: space-evenly;
+    }
+    .contact-info {
+      align-items: center;
+      .contact-section {
+        flex-direction: row;
+      }
+    }
+  }
+}

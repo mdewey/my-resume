@@ -3,6 +3,7 @@ import "./style.scss"
 const index = () => {
   return (
     <div className="education">
+      <h1>Education</h1>
       <section className="details">
         <h1>Bachelors of Science; Computer Science</h1>
         <h2>University Pittsburgh at Johnstown</h2>

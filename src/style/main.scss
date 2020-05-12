@@ -35,3 +35,11 @@ h1 {
 ul {
   list-style: none;
 }
+
+@media (max-width: 899px) {
+  .header {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

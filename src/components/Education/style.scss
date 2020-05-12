@@ -2,11 +2,13 @@
 
 .education {
   border-bottom: 0.2rem dashed black;
-  width: 100%;
-  margin: 2rem;
+
   display: flex;
   justify-content: space-between;
   padding-bottom: 2rem;
+  section {
+    padding: 1rem;
+  }
   .notable-classes {
     width: 60%;
     header {
@@ -29,5 +31,12 @@
         content: " ";
       }
     }
+  }
+}
+
+@media (max-width: 899px) {
+  .education {
+    flex-direction: column;
+    padding-left: 10vw;
   }
 }

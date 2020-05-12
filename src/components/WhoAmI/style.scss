@@ -14,3 +14,17 @@
     border-radius: 0.5rem;
   }
 }
+
+@media (max-width: 899px) {
+  .who-am-i {
+    h1,
+    h3 {
+      width: 100vw;
+      text-align: center;
+    }
+    h3 {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+}
