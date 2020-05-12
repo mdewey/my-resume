@@ -3,16 +3,25 @@
 .education {
   border-bottom: 0.2rem dashed rgb(34, 34, 34);
 
-  display: flex;
-  justify-content: space-between;
   width: 100%;
   padding-left: 5rem;
   padding-top: 1rem;
-
+  main {
+    display: flex;
+    justify-content: space-between;
+  }
   section {
     padding: 1rem;
   }
+  .details {
+    grid-row-start: 1;
+    grid-column-start: 0;
+  }
   .notable-classes {
+    grid-row-start: 1;
+
+    grid-column-start: 1;
+
     width: 60%;
     header {
       font-style: italic;
@@ -38,7 +47,9 @@
 }
 
 @media (max-width: 899px) {
-  .education {
+  .education > main {
+    display: flex;
+    justify-content: space-between;
     flex-direction: column;
     width: 90vw;
     padding-left: 10vw;
