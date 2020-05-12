@@ -17,6 +17,7 @@
       * {
         padding: 0.25rem;
       }
+      font-weight: 600;
       width: 30%;
       .where {
         font-style: italic;
@@ -83,8 +84,10 @@
       flex-direction: column;
       width: 90vw;
       padding: 0;
+      padding-top: 1rem;
       .details {
         width: 100%;
+        padding-bottom: 1rem;
       }
       .summary {
         width: 100%;
