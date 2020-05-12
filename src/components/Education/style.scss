@@ -3,8 +3,8 @@
 .education {
   border-bottom: 0.2rem dashed rgb(34, 34, 34);
 
-  width: 100%;
-  padding-left: 5rem;
+  width: 95vw;
+  padding-left: 5vw;
   padding-top: 1rem;
   main {
     display: flex;
@@ -47,11 +47,16 @@
 }
 
 @media (max-width: 899px) {
-  .education > main {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
-    width: 90vw;
-    padding-left: 10vw;
+  .education {
+    main {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+      width: auto;
+      padding-left: 10vw;
+    }
+    .details {
+      width: 70vw;
+    }
   }
 }

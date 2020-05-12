@@ -20,12 +20,12 @@ const index = () => {
             </section>
             <section className="welcome-message">
               <p>
-                Hailing from Pennsylvania, Mark has journeyed to Florida in 2014
-                to tackle life's next chapter. He loves a challenge and strives
-                to create and develop things that helps people have better
-                lives. Mark believes the right software, information, and a
-                little panache, can change the world. When not behind a
-                keyboard, he likes to enjoy the sunshine in wide open spaces.
+                Hailing from Pennsylvania, Mark journeyed to Florida in 2014 to
+                tackle life's next chapter. He loves a challenge and strives to
+                create and develop things that help people have better lives.
+                Mark believes the right software, information, and a little
+                panache can change the world. When not behind a keyboard, he
+                likes to enjoy the sunshine in wide open spaces.
               </p>
             </section>
           </>

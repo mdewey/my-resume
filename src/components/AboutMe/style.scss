@@ -1,22 +1,20 @@
 @import "../../style/variables";
 
 .about-me {
-  margin: 4rem;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
   border-bottom: 0.2rem dashed rgb(34, 34, 34);
-  width: 100%;
-  padding-left: 5rem;
-  padding-top: 1rem;
+  width: 100vw;
   * {
     margin: 1rem;
   }
   .picture {
-    width: 25vw;
+    width: 15vw;
   }
   .welcome-message {
     font-size: 1.2rem;
+    width: 50vw;
   }
   .face-pic {
     height: 15rem;
