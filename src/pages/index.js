@@ -4,12 +4,13 @@ import { Helmet } from "react-helmet"
 import "../style/main.scss"
 
 import WhoAmI from "../components/WhoAmI"
-import AboutMe from "../components/AboutMe"
+import AboutMe from "../components/AboutMe/About"
 import Contact from "../components/Contact"
 import Employment from "../components/Employment"
 import Education from "../components/Education"
 import Extras from "../components/Extras"
 import Skills from "../components/Skills"
+import ShowAllToggle from "../components/ShowAllToggle/ToggleButton"
 
 import { ShowAllContext } from "../context/ShowAllContext"
 
@@ -39,6 +40,7 @@ export default () => {
         <Education />
         <Skills />
         <Extras />
+        <ShowAllToggle />
       </ShowAllContext.Provider>
     </>
   )
