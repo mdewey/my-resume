@@ -9,6 +9,9 @@
   .social-media {
     display: flex;
     justify-content: flex-end;
+    span {
+      align-items: center;
+    }
     .linkedin,
     .github {
       a {
@@ -86,6 +89,19 @@
       .contact-section {
         flex-direction: row;
         width: 75vw;
+      }
+    }
+  }
+}
+
+@media print {
+  .contact-me {
+    width: 50vw;
+    .social-media {
+      justify-content: flex-start;
+      flex-wrap: wrap;
+      span {
+        display: flex;
       }
     }
   }

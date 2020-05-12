@@ -29,7 +29,13 @@ const index = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fab fa-linkedin-in"></i>
+            <span className="no-print">
+              <i className="fab fa-linkedin-in"></i>
+            </span>
+            <span className="print-only">
+              <i className="fab fa-linkedin-in"></i> linkedin.com/in/mark-dewey/
+            </span>
+
             {/* <p>/in/mark-dewey</p> */}
           </a>
         </section>
@@ -39,8 +45,12 @@ const index = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fab fa-github"></i>
-            {/* <p>mdewey</p> */}
+            <span className="no-print">
+              <i className="fab fa-github no-print"></i>
+            </span>
+            <span className="print-only">
+              <i className="fab fa-github"></i> mdewey
+            </span>
           </a>
         </section>
       </section>

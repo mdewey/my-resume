@@ -146,7 +146,7 @@
       "website": "www.exzeo.com",
       "startDate": "2014-08-04",
       "endDate": "2020-01-01",
-      "summary": "Exzeo is an insurance software incubator formed to help its parent company, Homeowner's Choice Insurance. While at Exzeo, lead a team of developers and non-technical staff to be more agile and goal-oriented, while developing prototypes.",
+      "summary": "Exzeo is an insurance software incubator formed to help its parent company, Homeowner's Choice Insurance. While at Exzeo, I led a team of developers and non-technical staff to be more agile and goal-oriented, while developing prototypes.",
       "highlights": [],
       "projects": [
         {
@@ -290,7 +290,12 @@
         {
           "name": "Rapid Analysis and Planning Toolkit for Operations and Research (RAPTOR)",
           "technology": [
-            "MVC4 (C#),Google Graph API, JQuery, MSSQL, HTML5, CSS3"
+            "MVC4 (C#)",
+            "Google Graph API",
+            " JQuery",
+            " MSSQL",
+            " HTML5",
+            " CSS3"
           ],
           "responsibilities": [
             "Display logistical data for various Navy labs and sub-labs using interactive graphs",

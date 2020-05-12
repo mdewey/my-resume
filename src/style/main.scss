@@ -45,3 +45,23 @@ ul {
     align-items: center;
   }
 }
+
+.print-only {
+  display: none;
+}
+
+.no-print {
+  display: initial;
+}
+
+@media print {
+  .header {
+    flex-direction: row;
+  }
+  .print-only {
+    display: initial;
+  }
+  .no-print {
+    display: none !important;
+  }
+}

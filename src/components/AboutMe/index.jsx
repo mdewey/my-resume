@@ -27,10 +27,6 @@ const index = () => {
                 little panache, can change the world. When not behind a
                 keyboard, he likes to enjoy the sunshine in wide open spaces.
               </p>
-              <p>
-                My top skill is are developing solutions with .NET Core and
-                React.
-              </p>
             </section>
           </>
         )}
