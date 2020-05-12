@@ -27,7 +27,7 @@
         height: 3rem;
         width: 3rem;
         text-decoration: none;
-        color: black;
+        color: rgb(34, 34, 34);
         border-radius: 5rem;
         transform: scale3d(0.9, 0.9, 0.9);
         transition: linear 0.3s;
@@ -36,7 +36,7 @@
       i:hover,
       svg:hover {
         border: none;
-        background-color: black;
+        background-color: rgb(34, 34, 34);
         color: white;
         -webkit-transform: scale3d(1, 1, 1);
         transform: scale3d(1, 1, 1);
