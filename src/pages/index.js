@@ -3,9 +3,9 @@ import { Helmet } from "react-helmet"
 
 import "../style/main.scss"
 
-import WhoAmI from "../components/WhoAmI"
+import WhoAmI from "../components/WhoAmI/Who"
 import AboutMe from "../components/AboutMe/About"
-import Contact from "../components/Contact"
+import Contact from "../components/Contact/ContactInfo"
 import Employment from "../components/Employment"
 import Education from "../components/Education"
 import Extras from "../components/Extras"
@@ -40,7 +40,7 @@ export default () => {
         <Education />
         <Skills />
         <Extras />
-        {/* <ShowAllToggle /> */}
+        <ShowAllToggle />
       </ShowAllContext.Provider>
     </>
   )

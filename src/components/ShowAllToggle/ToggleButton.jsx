@@ -1,12 +1,14 @@
 import React, { useContext } from "react"
-import { useShowAll } from "../../context/ShowAllContext"
 import "./style.scss"
+import { useShowAll } from "../../context/ShowAllContext"
 
 const ToggleButton = () => {
-  const { setShowAll } = useShowAll()
+  const { showAll, setShowAll } = useShowAll()
+
   return (
     <div className="toggle">
-      <button onClick={() => setShowAll(p => !p)}>toggle me</button>
+      {showAll ? "viewing full resume" : "viewing snapshot"}
+      <button onClick={() => setShowAll(p => !p)}>toggle</button>
     </div>
   )
 }
