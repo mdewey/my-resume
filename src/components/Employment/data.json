@@ -371,7 +371,6 @@
         {
           "name": "United Way of Pennsylvania - State Employee Combined Appeal System",
           "description": "Inherited system to manage, collect and distribute donations for the United Way of PA",
-          "canHide": true,
           "technology": [".NET Framework", "Web Forms", "SQL - Microsoft SQL"],
           "responsibilities": [
             "Upgraded a custom database driven donation management system with a new database schema and functionality ",
@@ -500,6 +499,7 @@
         },
         {
           "name": "UCLA Web App",
+          "canHide": true,
           "technology": [
             "ASP.NET",
             "HTML5 CSS3",
