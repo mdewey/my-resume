@@ -289,6 +289,7 @@
         },
         {
           "name": "Rapid Analysis and Planning Toolkit for Operations and Research (RAPTOR)",
+          "canHide": true,
           "technology": [
             "MVC4 (C#)",
             "Google Graph API",
@@ -370,6 +371,7 @@
         {
           "name": "United Way of Pennsylvania - State Employee Combined Appeal System",
           "description": "Inherited system to manage, collect and distribute donations for the United Way of PA",
+          "canHide": true,
           "technology": [".NET Framework", "Web Forms", "SQL - Microsoft SQL"],
           "responsibilities": [
             "Upgraded a custom database driven donation management system with a new database schema and functionality ",
@@ -405,6 +407,7 @@
         },
         {
           "name": "LIFT Johnstown",
+          "canHide": true,
           "description": "Maintain a CMS for a local charity.",
           "technology": [".NET Framework", "Visual Basic", "Web Forms"],
           "responsibilities": [
@@ -415,6 +418,7 @@
         },
         {
           "name": "Gold Star",
+          "canHide": true,
           "description": "Created app that allowed users to give stars to other employees",
           "technology": ["Python", "JQuery", "xAPI", "Twitter API"],
           "responsibilities": [
@@ -431,6 +435,7 @@
         {
           "name": "GIFT Integration",
           "technology": ["Java", "xAPI"],
+          "canHide": true,
           "responsibilities": [
             "Consulted and worked with developers to created a plugin for the AI powered Learning Platform GIFT",
             "Developed custom Java Package to aid in integration"
@@ -438,6 +443,7 @@
         },
         {
           "name": "Experience API Research - Custom Learner Record Store (LRS) ",
+          "canHide": true,
           "technology": ["Flask", "Python", "JQuery", "MySQL"],
           "responsibilities": [
             "Built a custom in house Learner Record Store to comply with the early specifications of the Experience to accept and store xAPI statements ",
@@ -473,6 +479,7 @@
         },
         {
           "name": "Five Minute Relationship",
+          "canHide": true,
           "technology": [
             "PHP",
             "MySQL",
@@ -493,7 +500,12 @@
         },
         {
           "name": "UCLA Web App",
-          "technology": [],
+          "technology": [
+            "ASP.NET",
+            "HTML5 CSS3",
+            "Visual Studio 2010",
+            "Objective-C"
+          ],
           "responsibilities": [
             "Converted an iPhone App into a cross-platform web app that would render properly across all devices and browsers, including Android, iPhones, Desktops, NetBooks and tablets",
             "Develop the web-app with only be shown a iPhone App",
@@ -502,6 +514,7 @@
         },
         {
           "name": "Mobile R&D",
+          "canHide": true,
           "technology": ["PHP", "Android SDK"],
           "responsibilities": [
             "Goal of the research project was to learn how to use various mobile technology to enhance our products",
@@ -513,7 +526,15 @@
         },
         {
           "name": "Mobile Resources Guides",
-          "technology": ["ASP.NET", "HTML5 CSS3", "Visual Studio 2010"],
+          "canHide": true,
+          "technology": [
+            "ASP.NET",
+            "HTML5 CSS3",
+            "Visual Studio 2010",
+            "Objective-C",
+            "Java",
+            "Android SDK"
+          ],
           "responsibilities": [
             "Created a scaffolding to create a mobile friendly resource guide as quickly as possible",
             "Create a cross platform mobile reference guide to aid in learning and re-learning after taking a course ( in person or online)",
