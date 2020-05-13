@@ -1,5 +1,6 @@
 import React, { useContext, useState } from "react"
 import { Helmet } from "react-helmet"
+import queryString from "query-string"
 
 import "../style/main.scss"
 
@@ -14,8 +15,14 @@ import ShowAllToggle from "../components/ShowAllToggle/ToggleButton"
 
 import { ShowAllContext } from "../context/ShowAllContext"
 
-export default () => {
-  const [showAll, setShowAll] = useState(true)
+export default props => {
+  const { search } = props.location
+  const things = search ? queryString.parse(search) : {}
+  console.log({ props })
+  console.log({ things })
+  const [showAll, setShowAll] = useState(
+    things.slim ? !(things.slim === "true") : true
+  )
 
   return (
     <>

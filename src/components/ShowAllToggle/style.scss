@@ -1,7 +1,25 @@
 @import "../../style/variables";
 
 .toggle {
-  position: absolute;
+  position: sticky;
   bottom: 0;
-  left: 0;
+  align-self: flex-start;
+  background-color: $primary-dark;
+
+  color: $secondary-light;
+  padding: 1rem;
+  label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    span {
+      padding: 0.25rem;
+    }
+  }
+}
+
+@media (max-width: 899px) {
+  .toggle {
+    width: 100vw;
+  }
 }

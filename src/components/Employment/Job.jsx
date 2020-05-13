@@ -25,7 +25,7 @@ const Job = ({ job }) => {
           <ul>
             {job.projects.map((project, index) => {
               if (project.canHide && !showAll) {
-                return <></>
+                return <span key={index}></span>
               }
               return (
                 <li key={index} className="project">
