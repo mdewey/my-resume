@@ -27,12 +27,12 @@ const About = () => {
               </section>
               <section className="welcome-message">
                 <p>
-                  Currently residing the Appalachian Mountains, Mark is always
-                  on the look out for the life's next chapter. Over the years,
-                  Mark, with the use of development and mentoring, has made a
-                  lasting impression everywhere he goes. Never backing from a
-                  challenge, Mark aims to create software that actually solves
-                  problems. He believes the right software, the correct
+                  Currently residing in the Appalachian Mountains, Mark is
+                  always on the look out for the life's next chapter. Over the
+                  years, Mark, with the use of development and mentoring, has
+                  made a lasting impression everywhere he goes. Never backing
+                  from a challenge, Mark aims to create software that actually
+                  solves problems. He believes the right software, the correct
                   information, and a little panache can change the world. When
                   not behind a keyboard, he enjoys breathing the fresh mountain
                   air.
