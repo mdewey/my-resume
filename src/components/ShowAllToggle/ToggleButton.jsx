@@ -1,4 +1,4 @@
-import React, { useContext } from "react"
+import React from "react"
 import Switch from "react-switch"
 import "./style.scss"
 import { useShowAll } from "../../context/ShowAllContext"

@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react"
+import React, { useState } from "react"
 import { Helmet } from "react-helmet"
 import queryString from "query-string"
 

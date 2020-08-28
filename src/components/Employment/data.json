@@ -1,6 +1,43 @@
 {
   "jobs": [
     {
+      "company": "GovernmentCIO",
+      "position": "Senior Front End Developer",
+      "location": "Remote",
+      "website": "https://governmentcio.com/",
+      "startDate": "2020-05-27",
+      "summary": "GovernmentCIO is a mission is to transform government IT, so federal agencies can work faster, easier and focus on their important role in serving the needs of its citizens.",
+      "projects": [
+        {
+          "name": "va.gov, Healthcare Experience Team",
+          "technology": [
+            "Web Development",
+            "Problem Solving",
+            "Communication",
+            "User Experience",
+            "Remote working",
+            "React",
+            "Redux",
+            "Javascript",
+            "HTML & Accessibility",
+            "SASS",
+            "Ruby on Rails",
+            "Docker",
+            "Metalsmith",
+            "Cypress"
+          ],
+          "responsibilities": [
+            "Created a brand new healthcare experience for veterans on va.gov.",
+            "Aided in all parts of the agile lifecycle., including UI/UX, project management, development, testing, and delivery",
+            "Architecting a solution with the help of the team to create a solution that works in the current tech ecosystem. ",
+            "Provided feedback, prototypes and suggestions to site wide library and systems.",
+            "Reviewed teams code and provided meaningful actionable feedback.",
+            "Created well-crafted code with both unit and e2e tests."
+          ]
+        }
+      ]
+    },
+    {
       "company": "Suncoast Developers Guild",
       "position": "Core Instructor",
       "location": "St. Petersburg, FL",
