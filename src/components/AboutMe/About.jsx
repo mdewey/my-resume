@@ -27,11 +27,10 @@ const About = () => {
               </section>
               <section className="welcome-message">
                 <p>
-                  Mark ventured to Florida in 2014 to enjoy some sun while
-                  tackle life's next chapter. However, missing snow has caused
-                  him to head back to the mountains of Pennsylvania. During his
-                  years in Florida, through mentoring and development, Mark made
-                  a lasting impact on the tech community. Never backing from a
+                  Currently residing the Appalachian Mountains, Mark is always
+                  on the look out for the life's next chapter. Over the years,
+                  Mark, with the use of development and mentoring, has made a
+                  lasting impression everywhere he goes. Never backing from a
                   challenge, Mark aims to create software that actually solves
                   problems. He believes the right software, the correct
                   information, and a little panache can change the world. When
