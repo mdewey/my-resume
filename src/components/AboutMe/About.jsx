@@ -32,9 +32,9 @@ const About = () => {
                   Mark has made a lasting impression everywhere he goes with the
                   use of development and mentoring. Never backing from a
                   challenge, Mark aims to create software that actually solves
-                  problems. He believes the right software, the correct
-                  information, and a little panache can change the world. When
-                  not behind a keyboard, he is enjoying the fresh mountain air.
+                  problems. He believes with the right software, the correct
+                  insights, and a little panache any problem can be solved. When
+                  not behind a keyboard, Mark is enjoying the fresh mountain air.
                 </p>
               </section>
             </>
