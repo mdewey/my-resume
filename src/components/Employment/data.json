@@ -1,38 +1,44 @@
 {
   "jobs": [
     {
-      "company": "GovernmentCIO",
-      "position": "Senior Front End Developer",
+      "company": "GovCIO",
+      "position": "Senior Front End Engineer",
       "location": "Remote",
-      "website": "https://governmentcio.com/",
+      "website": "https://govcio.com/",
       "startDate": "2020-05-27",
-      "summary": "GovernmentCIO is a mission is to transform government IT, so federal agencies can work faster, easier and focus on their important role in serving the needs of its citizens.",
+      "summary": "GovernmentCIO is on a mission is to transform government IT, so federal agencies can work faster, easier and focus on their important role in serving the needs of its citizens.",
       "projects": [
         {
-          "name": "va.gov, Healthcare Experience Team",
+          "name": "va.gov, Healthcare Experience Team, Modernizing Check-In",
           "technology": [
             "Web Development",
-            "Problem Solving",
+            "React",
             "Communication",
             "User Experience",
             "Remote working",
-            "React",
+            "Problem Solving",
             "Redux",
             "Javascript",
             "HTML & Accessibility",
             "SASS",
             "Ruby on Rails",
             "Docker",
-            "Metalsmith",
-            "Cypress"
+            "Metalsmith & Drupal",
+            "Cypress",
+            "GitHub Actions"
           ],
           "responsibilities": [
-            "Created a brand new healthcare experience for veterans on va.gov.",
-            "Aided in all parts of the agile lifecycle., including UI/UX, project management, development, testing, and delivery",
-            "Architecting a solution with the help of the team to create a solution that works in the current tech ecosystem. ",
-            "Provided feedback, prototypes and suggestions to site wide library and systems.",
+            "Created a brand new Check-In experience for veterans to check into their appointments on va.gov",
+            "Created well-crafted code with both unit and e2e tests.",
+            "Aided in all parts of the agile lifecycle., including UI/UX, project management, prototyping, development, testing, and delivery",
+            "Architected a solution with the help of the team to create a solution that works in the current VA ecosystem. ",
+            "Acted as discipline leader for the Front End team to build the new Check-In experience",
+            "Provided feedback, prototypes and suggestions to improve site wide library and systems.",
+            "Designated lead Front End Engineer by peers and management team",
+            "Ensure any new development was accessible to all users, following 508 and Lighthouse standards",
+            "Mentored and aided other engineers on the va.gov team",
             "Reviewed teams code and provided meaningful actionable feedback.",
-            "Created well-crafted code with both unit and e2e tests."
+            "Refined and iterated on the developer experience of interviewing, on-boarding, skills growth and off-boarding."
           ]
         }
       ]
@@ -188,7 +194,12 @@
       "projects": [
         {
           "name": "Alexa Insurance Prototype",
-          "technology": ["AWS Lambda", "DynamoDb", "Node.js", "Voice Design"],
+          "technology": [
+            "AWS Lambda",
+            "DynamoDb",
+            "Node.js",
+            "Voice Design"
+          ],
           "responsibilities": [
             "Designed, developed and delivered a prototype that allows users to buy flood insurance via Amazon Alexa",
             "Worked with existed APIs to integrate the product with the existing flood insurance system. "
@@ -408,7 +419,11 @@
         {
           "name": "United Way of Pennsylvania - State Employee Combined Appeal System",
           "description": "Inherited system to manage, collect and distribute donations for the United Way of PA",
-          "technology": [".NET Framework", "Web Forms", "SQL - Microsoft SQL"],
+          "technology": [
+            ".NET Framework",
+            "Web Forms",
+            "SQL - Microsoft SQL"
+          ],
           "responsibilities": [
             "Upgraded a custom database driven donation management system with a new database schema and functionality ",
             "Debugged and fixed SQL Stored procedures",
@@ -420,7 +435,11 @@
         {
           "name": "Circumspex",
           "description": "Plannig tool that allows organizations to plan for emergencies",
-          "technology": [".NET Framework", "Web Forms", "SQL - Microsoft SQL"],
+          "technology": [
+            ".NET Framework",
+            "Web Forms",
+            "SQL - Microsoft SQL"
+          ],
           "responsibilities": [
             "Extended existing site that helped users plan for emergencies",
             "Added features such photo uploads, mass import of data and UI modernization",
@@ -433,7 +452,10 @@
         {
           "name": "Paramount Pictures",
           "description": "Created the UI for the mobile app for Paramount Pictures",
-          "technology": ["Android SDK", "Java"],
+          "technology": [
+            "Android SDK",
+            "Java"
+          ],
           "responsibilities": [
             "Created a dynamically loading scrolling menu for users to view their purchased movies",
             "Developed the menu to be re-useable in other parts of the application",
@@ -445,7 +467,11 @@
           "name": "LIFT Johnstown",
           "canHide": true,
           "description": "Maintain a CMS for a local charity.",
-          "technology": [".NET Framework", "Visual Basic", "Web Forms"],
+          "technology": [
+            ".NET Framework",
+            "Visual Basic",
+            "Web Forms"
+          ],
           "responsibilities": [
             "Extended and maintained a custom CMS for a local charity",
             "Lead outreach, training and delivering of application",
@@ -456,7 +482,12 @@
           "name": "Gold Star",
           "canHide": true,
           "description": "Created app that allowed users to give stars to other employees",
-          "technology": ["Python", "JQuery", "xAPI", "Twitter API"],
+          "technology": [
+            "Python",
+            "JQuery",
+            "xAPI",
+            "Twitter API"
+          ],
           "responsibilities": [
             "Lead team to design and create a proof of concept app centered around employee recognition",
             "Integrated system with (Learner Record Stores) to help record learning and competencies",
@@ -470,7 +501,10 @@
         },
         {
           "name": "GIFT Integration",
-          "technology": ["Java", "xAPI"],
+          "technology": [
+            "Java",
+            "xAPI"
+          ],
           "canHide": true,
           "responsibilities": [
             "Consulted and worked with developers to created a plugin for the AI powered Learning Platform GIFT",
@@ -480,7 +514,12 @@
         {
           "name": "Experience API Research - Custom Learner Record Store (LRS) ",
           "canHide": true,
-          "technology": ["Flask", "Python", "JQuery", "MySQL"],
+          "technology": [
+            "Flask",
+            "Python",
+            "JQuery",
+            "MySQL"
+          ],
           "responsibilities": [
             "Built a custom in house Learner Record Store to comply with the early specifications of the Experience to accept and store xAPI statements ",
             "Created a fully searchable UI using a JQuery Driven Front-end",
@@ -552,7 +591,10 @@
         {
           "name": "Mobile R&D",
           "canHide": true,
-          "technology": ["PHP", "Android SDK"],
+          "technology": [
+            "PHP",
+            "Android SDK"
+          ],
           "responsibilities": [
             "Goal of the research project was to learn how to use various mobile technology to enhance our products",
             "Researched mobile web design principles and techniques",
