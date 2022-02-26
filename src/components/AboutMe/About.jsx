@@ -29,12 +29,12 @@ const About = () => {
                 <p>
                   Currently residing in the Appalachian Mountains, Mark is
                   always looking out for life's next chapter. Over the years,
-                  Mark has made a lasting impression everywhere he goes with the
+                  Mark leaves a lasting impression everywhere he goes with the
                   use of development and mentoring. Never backing from a
                   challenge, Mark aims to create software that actually solves
-                  problems. He believes with the right software, the correct
-                  insights, and a little panache any problem can be solved. When
-                  not behind a keyboard, Mark is enjoying the fresh mountain air.
+                  problems. He believes that with the right software, the correct
+                  insights, and a little panache, any problem can be solved. Mark 
+                  can usually be found enjoying the fresh mountain air, when not behind a keyboard.
                 </p>
               </section>
             </>

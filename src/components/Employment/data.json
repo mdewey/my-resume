@@ -6,7 +6,7 @@
       "location": "Remote",
       "website": "https://govcio.com/",
       "startDate": "2020-05-27",
-      "summary": "GovernmentCIO is on a mission is to transform government IT, so federal agencies can work faster, easier and focus on their important role in serving the needs of its citizens.",
+      "summary": "GovernmentCIO is on a mission is to transform government IT, so federal agencies can work faster, easier, and focus on their important role in serving the needs of its citizens.",
       "projects": [
         {
           "name": "va.gov, Healthcare Experience Team, Modernizing Check-In",
@@ -28,17 +28,17 @@
             "GitHub Actions"
           ],
           "responsibilities": [
-            "Created a brand new Check-In experience for veterans to check into their appointments on va.gov",
-            "Created well-crafted code with both unit and e2e tests.",
-            "Aided in all parts of the agile lifecycle., including UI/UX, project management, prototyping, development, testing, and delivery",
-            "Architected a solution with the help of the team to create a solution that works in the current VA ecosystem. ",
-            "Acted as discipline leader for the Front End team to build the new Check-In experience",
-            "Provided feedback, prototypes and suggestions to improve site wide library and systems.",
-            "Designated lead Front End Engineer by peers and management team",
-            "Ensure any new development was accessible to all users, following 508 and Lighthouse standards",
-            "Mentored and aided other engineers on the va.gov team",
-            "Reviewed teams code and provided meaningful actionable feedback.",
-            "Refined and iterated on the developer experience of interviewing, on-boarding, skills growth and off-boarding."
+            "Created a brand new experience for veterans to check into their appointments on va.gov",
+            "Created well-crafted code with both unit and e2e tests",
+            "Aided in all parts of the agile lifecycle including: UI/UX, project management, prototyping, development, testing, delivery, and support",
+            "Architected a system with the help of the team to create a solution that works in the current VA ecosystem",
+            "Acted as the Front End discipline leader for the Modernizing Check-In team",
+            "Provided feedback, prototypes, and suggestions to improve site wide library and systems",
+            "Acted as a cross-team Lead Front End Engineer",
+            "Ensure website was accessible to all users, following 508 and Lighthouse standards",
+            "Mentored other engineers on the va.gov team",
+            "Reviewed team's code and provided meaningful actionable feedback",
+            "Refined on the developer experience of interviewing, on-boarding, up-skilling, and off-boarding"
           ]
         }
       ]
