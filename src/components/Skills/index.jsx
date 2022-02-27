@@ -3,7 +3,7 @@ import "./style.scss"
 import { skills } from "./data.json"
 const index = () => {
   return (
-    <div className="skills">
+    <div className="skills" id="Skills">
       <h1>Skills</h1>
       {skills.map((skill, index) => {
         return (
