@@ -83,7 +83,7 @@
       "website": "http://www.suncoast.io",
       "startDate": "2017-10-13",
       "endDate": "2020-05-04",
-      "summary": "Suncoast Developers Guild is a community-driven, not-for-profit, in person code school.",
+      "summary": "A community-driven, not-for-profit, in person code school.",
       "projects": [
         {
           "name": "Full Stack Web Developer Curriculum Developer and Instructor",
@@ -105,11 +105,11 @@
             "Documentation"
           ],
           "responsibilities": [
-            "Developed 12-week Full Stack curriculum, focusing on modern practices, and technology",
-            "Taught Full Stack engineering course using HTML, CSS, JavaScript, Ruby, React, .NET and SQL",
-            "Developed and Created meet up talks for community outreach; Topics include but are not limited to Typescript, React, Blazor, .NET Core and Domain Driven Design",
+            "Developed 12-week Full Stack curriculum, focusing on modern best practices, and technology",
+            "Taught Full Stack engineering course using HTML, CSS, JavaScript, Ruby, React, .NET and SQL to hundreds of students",
+            "Achieved a hiring rate of 85%+ of actively looking graduates",
+            "Developed and Created dozens of meet up talks for community outreach; Topics include but are not limited to Typescript, React, Blazor, .NET Core and Domain Driven Design",
             "Worked with community members, advisor committees, and board of directors to iteration on course improvements",
-            "Created and communicated best practices on how to be a developer.",
             "Course topics included, but not limited to: .NET (C#), React,  OOP, Functional Programing, WPF, LINQ, ASP.NET MVC, Razor, Entity Framework, HTML, CSS, JavaScript, JQuery, Relational Database (SQL), and testing"
           ]
         },
@@ -127,7 +127,7 @@
             "Documentation"
           ],
           "responsibilities": [
-            "Created numerous .NET Core Web APIs for students to practice interacting with",
+            "Created approximately a dozen .NET Core Web APIs for students to practice interacting with",
             "Deployed to Heroku using Docker",
             "Created Admin dashboards to manage data"
           ]
@@ -144,7 +144,7 @@
           ],
           "responsibilities": [
             "Created a suite of templates so the students could focus on learning and not infrastructure",
-            "Created custom shell scripts to aid in the automatic grading of homework",
+            "Created custom shell scripts to aid in the automatic grading of homework to increase productive by 75%",
             "Designed and implemented simple dashboards to display student data in a meaningful way for staff and students"
           ]
         },
@@ -157,12 +157,13 @@
             "Postgres",
             "Docker",
             "Heroku",
+            "O-Auth",
             "Material UI"
           ],
           "responsibilities": [
-            "Created online tool to help track students for distances learning",
-            "Custom tools to solve problems the academics team was having",
-            "Developed workflow, interface, data structures, and solution to help foster meaningful student interactions"
+            "Created online tool to help track students for distances learning to increase communication and monitor student progress",
+            "Developed workflow, interface, data structures, and solution to help foster meaningful student interactions",
+            "Created dashboards to track measure statistics to monitor student progress."
           ]
         }
       ]
@@ -174,7 +175,7 @@
       "location": "St. Petersburg, FL",
       "startDate": "2016-08-29",
       "endDate": "2017-10-13",
-      "summary": "The Iron Yard offered an immersive web development course to train non-technical individuals to become software engineers. ",
+      "summary": "An immersive web development boot camp to train non-technical individuals to become software engineers in 12 weeks ",
       "highlights": [
         "Created custom tools for making the classroom more efficient, includes: template generators, chrome extensions, and custom shell scripts."
       ],

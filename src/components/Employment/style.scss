@@ -20,6 +20,9 @@
       top: 3rem;
       font-weight: 600;
       width: 30%;
+      .when{
+        margin-bottom: 1rem;
+      }
       .where {
         display: flex;
         align-items: center;
@@ -30,7 +33,11 @@
       font-size: 1rem;
       border: none;
       margin-top: 1rem;
+      margin-bottom: 1rem;
       font-style: italic;
+    }
+    .job-date{
+      margin-bottom: 1rem;
     }
     .project-label{
       font-size: 0.9rem;
