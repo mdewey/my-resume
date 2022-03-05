@@ -1,5 +1,6 @@
 @import "../../style/variables";
 
+
 .employment {
   border-bottom: 0.2rem dashed rgb(34, 34, 34);
   width: 95vw;
@@ -17,9 +18,6 @@
     .details {
       position: sticky;
       top: 3rem;
-      * {
-        padding: 0.25rem;
-      }
       font-weight: 600;
       width: 30%;
       .where {
@@ -99,6 +97,8 @@
       .details {
         width: 100%;
         padding-bottom: 1rem;
+        position: inherit;
+        top: initial;
       }
       .summary {
         width: 100%;
@@ -106,6 +106,7 @@
     }
   }
 }
+
 
 @media print {
   .employment {
