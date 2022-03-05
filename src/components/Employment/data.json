@@ -170,15 +170,12 @@
     },
     {
       "company": "The Iron Yard",
-      "position": "Back End Engineering with .NET Instructor, Full Stack Engineering Instructor",
+      "position": "Full Stack Engineering Instructor",
       "website": "http://www.theironyard.com",
       "location": "St. Petersburg, FL",
       "startDate": "2016-08-29",
       "endDate": "2017-10-13",
-      "summary": "An immersive web development boot camp to train non-technical individuals to become software engineers in 12 weeks ",
-      "highlights": [
-        "Created custom tools for making the classroom more efficient, includes: template generators, chrome extensions, and custom shell scripts."
-      ],
+      "summary": "An immersive web development boot camp to train individuals to become software engineers in 12 weeks ",
       "projects": [
         {
           "name": ".NET Instructor",
@@ -191,10 +188,10 @@
             "Azure"
           ],
           "responsibilities": [
-            "Developed 12-week .NET curriculum, focusing on modern practices, and technology",
+            "Developed and instructed a 12-week .NET curriculum, focusing on modern practices, and technology",
+            "Became .NET curriculum leader and mentored other instructors on teaching best practices",
             "Course topics included, but not limited to: .NET (C#), OOP, Functional Programing, WPF, LINQ, ASP.NET MVC, Razor, Entity Framework, HTML, CSS, JavaScript, JQuery, Relational Database (SQL) and testing",
-            "Taught crash courses to the community on various topics such as .NET Core, Neo4j, .NET Framework and JavaScript",
-            "Taught Full Stack engineering course using a flipped classroom that taught HTML, CSS, JavaScript, Node.js, Express, Ruby, React, Java, .NET, and SQL"
+            "Taught free community courses on various topics such as .NET Core, Neo4j, .NET Framework and JavaScript"
           ]
         },
         {
@@ -211,7 +208,8 @@
             "Ruby"
           ],
           "responsibilities": [
-            "Delivered Full Stack engineering course using a flipped classroom that taught HTML, CSS, JavaScript, Node.js, Express, Ruby, React, Java, .NET, and SQL",
+            "Taught Full Stack engineering course using a flipped classroom that taught HTML, CSS, JavaScript, Node.js, Express, Ruby, React, Java, .NET, and SQL",
+            "Created .NET and Node.js Flipped classroom material",
             "Iterated on content with the content development team"
           ]
         }
@@ -225,7 +223,6 @@
       "endDate": "2020-01-01",
       "location": "Tampa, FL",
       "summary": "Exzeo is an insurance software incubator formed to help its parent company, Homeowner's Choice Insurance. While at Exzeo, I led a team of developers and non-technical staff to be more agile and goal-oriented, while developing prototypes.",
-      "highlights": [],
       "projects": [
         {
           "name": "Alexa Insurance Prototype",

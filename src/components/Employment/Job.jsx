@@ -9,7 +9,7 @@ const Job = ({ job }) => {
       <section className="details">
         <h2>{job.position}</h2>
         <h3>
-          <a href={job.website} target="_blank" rel="noopener noreferrer">
+          @ <a href={job.website} target="_blank" rel="noopener noreferrer">
             {job.company}
           </a>
         </h3>
