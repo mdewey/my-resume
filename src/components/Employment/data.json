@@ -222,7 +222,7 @@
       "startDate": "2014-08-04",
       "endDate": "2020-01-01",
       "location": "Tampa, FL",
-      "summary": "Exzeo is an insurance software incubator formed to help its parent company, Homeowner's Choice Insurance. While at Exzeo, I led a team of developers and non-technical staff to be more agile and goal-oriented, while developing prototypes.",
+      "summary": "Insurance software incubator formed to disrupt insurance through experimenting with new technology",
       "projects": [
         {
           "name": "Alexa Insurance Prototype",
@@ -278,6 +278,7 @@
           ],
           "responsibilities": [
             "Led team in creating a GeoJSON data mapping application for subject-matter experts",
+            "Increase productivity exponentially for business and data analytics. ",
             "Created an administrator tool to view and manage analytically data. ",
             "Created an API for easy integration with other systems ",
             "Created an export functionality to allow subject matter experts to extract important custom data sets",
@@ -285,7 +286,7 @@
           ]
         },
         {
-          "name": "VPET",
+          "name": "VPET (Virtual Property Evaluation Tool)",
           "technology": [
             ".NET MVC 5 (C#)",
             "Node.js",
@@ -302,7 +303,6 @@
           ],
           "responsibilities": [
             "Designed, created, tested, and maintained a suite of app and supporting infrastructure to collect, manage, and analyze data for the state of Florida",
-            "Converted prototype to production ready system",
             "Created a Lambda Architecture to handle big data concerns, to speed up analysis, and support administration querying",
             "Created crowd sourcing information gathering tools to speed up data collection",
             "Created tools and processes to ensure the data was stored in a secure, highly scalable, and easily exported format"
@@ -333,10 +333,9 @@
             "and Stripe"
           ],
           "responsibilities": [
-            "Rescued a failed time-sensitive project",
-            "Fixed a failed code base",
-            "Set up a development process to more easily create features and iterate faster",
-            "Supported mobile app development ",
+            "Rescued a failed time-sensitive project by work with stakeholder to prioritize features and bugs",
+            "Established a development process to more reduce time it would to take to create features and iterate faster",
+            "Supported mobile app development",
             "Worked with a diverse team with a focus on getting tasks complete"
           ]
         }
