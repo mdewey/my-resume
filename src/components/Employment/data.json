@@ -6,14 +6,17 @@
       "location": "Remote",
       "website": "https://govcio.com/",
       "startDate": "2020-05-27",
-      "summary": "GovernmentCIO is on a mission is to transform government IT, so federal agencies can work faster, easier, and focus on their important role in serving the needs of its citizens.",
+      "summary": "Gov't contracting focusing on the VA",
       "projects": [
         {
-          "name": "va.gov, Healthcare Experience Team, Modernizing Check-In",
+          "name": "Healthcare Experience Team, Modernizing Check-In on VA.gov",
           "technology": [
             "Web Development",
+            "Architecture Design",
+            "System Design",
             "React",
             "Communication",
+            "Leadership",
             "User Experience",
             "Remote working",
             "Problem Solving",
@@ -23,22 +26,52 @@
             "SASS",
             "Ruby on Rails",
             "Docker",
-            "Metalsmith & Drupal",
             "Cypress",
             "GitHub Actions"
           ],
           "responsibilities": [
-            "Created a brand new experience for veterans to check into their appointments on va.gov",
+            "Technical lead and architect for approx. 13 teams consisting of approx 25 engineers",
+            "Architected and built a new appointment check-in experience for VA.gov, the largest public health system in the nation",
+            "Developed solution to scale to over 9 millions active users",
             "Created well-crafted code with both unit and e2e tests",
-            "Aided in all parts of the agile lifecycle including: UI/UX, project management, prototyping, development, testing, delivery, and support",
-            "Architected a system with the help of the team to create a solution that works in the current VA ecosystem",
-            "Acted as the Front End discipline leader for the Modernizing Check-In team",
-            "Provided feedback, prototypes, and suggestions to improve site wide library and systems",
-            "Acted as a cross-team Lead Front End Engineer",
-            "Ensure website was accessible to all users, following 508 and Lighthouse standards",
-            "Mentored other engineers on the va.gov team",
-            "Reviewed team's code and provided meaningful actionable feedback",
-            "Refined on the developer experience of interviewing, on-boarding, up-skilling, and off-boarding"
+            "Aided in all parts of the agile lifecycle including: requirement gathering, UI/UX, project management, prototyping, development, testing, delivery, and support",
+            "Front End discipline leader for the Modernizing Check-In team",
+            "Provided improvements to the developer experience to increase productivity and reduce duplication of effort",
+            "Ensure website was accessible to all users, following 508 and Lighthouse standards, reducing validations to near 0",
+            "Mentored other engineers on the va.gov team to improve overall team productivity",
+            "Reviewed team's code and provided meaningful actionable feedback to reduce time spent on bugs and technical debt",
+            "Refined on the developer experience of interviewing to reduce cost of hiring and training and decrease hiring time",
+            "Refined the developer on-boarding experience to reduce 'time till productive' metric by 50%"
+          ]
+        },
+        {
+          "name": "ITD, Contract Re-compete team",
+          "technology": [
+            "Web Development",
+            "Architecture Design",
+            "System Design",
+            "React",
+            "Communication",
+            "Leadership",
+            "Agile Methodology",
+            "MVP Design",
+            "User Experience",
+            "Remote working",
+            "Problem Solving",
+            "Redux",
+            "Javascript",
+            "HTML & Accessibility",
+            "SASS",
+            "Ruby on Rails",
+            "Docker",
+            "Cypress",
+            "GitHub Actions"
+          ],
+          "responsibilities": [
+            "Selected to be the only Full Stack developer on the team, working as a lead developer.",
+            "Aided in development of template system for contract competition reducing time spent on boilerplate code",
+            "Created a CI/CD pipeline for a Ruby on Rails API with React application that deploys to AWS",
+            "Participated in dry-runs to help train other team on the process to improve productivity based on metrics and milestones"
           ]
         }
       ]
@@ -189,6 +222,7 @@
       "website": "www.exzeo.com",
       "startDate": "2014-08-04",
       "endDate": "2020-01-01",
+      "location": "Tampa, FL",
       "summary": "Exzeo is an insurance software incubator formed to help its parent company, Homeowner's Choice Insurance. While at Exzeo, I led a team of developers and non-technical staff to be more agile and goal-oriented, while developing prototypes.",
       "highlights": [],
       "projects": [
@@ -284,6 +318,7 @@
       "website": "www.stacktive.com",
       "startDate": "2014-11-25",
       "endDate": "2016-03-14",
+      "location": "Remote",
       "summary": "A startup to create a marketplace to have one pass for multiple gyms",
       "projects": [
         {
@@ -315,6 +350,7 @@
       "website": "www.problemsolutions.net",
       "startDate": "2011-05-10",
       "endDate": "2014-07-14",
+      "location": "Johnstown, PA",
       "summary": "Problem Solutions is a software contracting company. I was a key member of the \"tiger team\" to jump-start new ideas or save failing projects. Design, developed, and maintain projects for a variety of customers, encompassing commercial and government.",
       "projects": [
         {

@@ -1,27 +1,27 @@
 import React from "react"
 import { useShowAll } from "../../context/ShowAllContext"
+import Hideablelabel from "./HideableLabel"
 
 const Job = ({ job }) => {
   const { showAll } = useShowAll()
   return (
     <li className="job">
       <section className="details">
-        <h2>
+        <h2>{job.position}</h2>
+        <h3>
           <a href={job.website} target="_blank" rel="noopener noreferrer">
             {job.company}
           </a>
-        </h2>
-        <h3>{job.position}</h3>
-        <h4 className="where">{job.location}</h4>
+        </h3>
+        <p className="job-description">{job.summary}</p>
         <h4 className="when">
           {new Date(job.startDate).toLocaleDateString()} -{" "}
           {job.endDate ? new Date(job.endDate).toLocaleDateString() : "present"}
         </h4>
+        <h5 className="where"><i className={"fa fa-map-marker"}></i>{job.location}</h5>
       </section>
       <section className="summary">
-        <header className="job-description">{job.summary}</header>
         <section className="projects">
-          <p>projects and responsibilities:</p>
           <ul>
             {job.projects.map((project, index) => {
               if (project.canHide && !showAll) {
@@ -29,9 +29,14 @@ const Job = ({ job }) => {
               }
               return (
                 <li key={index} className="project">
+                  <Hideablelabel show={showAll}>
+                   project
+                  </Hideablelabel>
                   <header>{project.name}</header>
                   <section className="technology">
-                    <p>technology used:</p>
+                    <Hideablelabel show={showAll}>
+                      technologies used
+                    </Hideablelabel>
                     <ul className="technologies">
                       {project.technology.map((tech, index) => {
                         return <li key={index}>{tech}</li>
@@ -39,7 +44,10 @@ const Job = ({ job }) => {
                     </ul>
                   </section>
                   <section className="responsibilities">
-                    <p>what I did:</p>
+                    <Hideablelabel show={showAll}>
+                     what i did
+                    </Hideablelabel>
+
                     <ul>
                       {project.responsibilities.map((task, index) => {
                         return <li key={index}>{task}</li>

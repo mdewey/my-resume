@@ -28,8 +28,8 @@ const About = () => {
               <section className="welcome-message">
                 <p>
                   Currently residing in the Appalachian Mountains, Mark is
-                  always looking out for life's next chapter. Over the years,
-                  Mark leaves a lasting impression everywhere he goes with the
+                  always looking out for life's next chapter. Over the years, he has left a 
+                  lasting impression everywhere he goes with the
                   use of development and mentoring. Never backing from a
                   challenge, Mark aims to create software that actually solves
                   problems. He believes that with the right software, the correct
