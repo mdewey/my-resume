@@ -1,11 +1,79 @@
+
 {
   "jobs": [
+    {
+      "company": "Department of Veterans Affairs",
+      "position":"Digital Services Expert, US Digital Service on detail as a Staff+ Engineer",
+      "location": "Remote",
+      "website": "https://www.va.gov",
+      "startDate": "2022-07-19",
+      "summary":"Provide engineering leadership to modernized the technical capabilities of the VA for the health portal for Veterans",
+      "projects":[
+        {
+          "name": "Travel Pay to va.gov migration",
+          "technology":[
+            "Communication",
+            "Leadership",
+            "Remote working",
+            "System Design",
+            "React",
+            "Ruby", 
+            "AWS",
+            "Datadog", 
+            ".NET"
+          ],
+          "responsibilities":[
+            "Technical lead and architect for 3 teams consisting of approx 25 engineers",
+            "Designed a modular and resuable system to help integration in various points",
+            "Lead a cross department initiative to integrate Veterans Travel Benefits into the existing Patient Check In Application",
+            "Coordinated and captured requirements from stakeholder across multiple different offices into design documents and tickets for development teams",
+            "Developed performant, fault tolerant system that built to handle processing of thousands of claims per day",
+            "Worked with front line staff to roll out a pilot program before a full scale roll out",
+            "Developed monitoring tools for analytics to ensure that value was being added",
+            "Created and aligned multiple development teams to Department wide best practices"
+          ]
+        },
+        {
+          "name": "Travel Pay migration",
+          "technology":[],
+          "responsibilities":[]
+        },
+        { 
+          "name": "MHV on va.gov - Secure Messaging",
+          "technology":[],
+          "responsibilities":[]
+        },
+        { 
+          "name": "MHV on va.gov - Medical Records - Accelerated work",
+          "technology":[],
+          "responsibilities":[]
+        },
+        {
+          "name": "Oracle Health Integration",
+          "technology":[
+            "System Design",
+            "Communication",
+            "Leadership",
+            "Remote working",
+            "Design for Redundancy",
+            "Database Design"
+            ], 
+          "responsibilities":[
+            "Advised team on building a new integration point for Veterans health records", 
+            "Created an architect that allows flexibility to meet stakeholder requirement", 
+            "Provided Technical knowledge and support to enable product managers to make informed decisions",
+            "Represented government interested when intesracting with contractors"
+         ]
+        }
+      ]
+    },
     {
       "company": "GovCIO",
       "position": "Senior Front End Engineer",
       "location": "Remote",
       "website": "https://govcio.com/",
       "startDate": "2020-05-27",
+      "endDate": "2022-07-19",
       "summary": "Gov't contracting focusing on the VA",
       "projects": [
         {
@@ -73,6 +141,12 @@
             "Created a CI/CD pipeline for a Ruby on Rails API with React application that deploys to AWS",
             "Participated in dry-runs to help train other team on the process to improve productivity based on metrics and milestones"
           ]
+        },
+        {
+          "name": "VA.gov Profile team",
+          "canHide":true,
+          "technology":[],
+          "responsibilities":[]
         }
       ]
     },

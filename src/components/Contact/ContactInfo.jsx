@@ -78,7 +78,7 @@ const ContactInfo = () => {
           data="mark.t.dewey@gmail.com"
           linkStyle="mailto"
         />
-        <ContactSection icon="fas fa-wifi" data="https://www.markdewey.dev" />
+        {/* <ContactSection icon="fas fa-wifi" data="https://www.markdewey.dev" /> */}
         <ContactSection
           icon="fas fa-phone"
           data="814-421-9298"

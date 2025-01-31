@@ -8,7 +8,7 @@ const Who = () => {
     <div className="who-am-i">
       <h1>Mark Dewey</h1>
       {showAll && <h3>Developer - Instructor - Explorer</h3>}
-      <h3>Current Title: Senior Engineer</h3>
+      <h3>Current Title: Staff+ Engineer</h3>
     </div>
   )
 }
