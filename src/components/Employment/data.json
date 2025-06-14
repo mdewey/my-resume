@@ -155,12 +155,6 @@
             "Created a CI/CD pipeline for a Ruby on Rails API with React application that deploys to AWS",
             "Participated in dry-runs to help train other team on the process to improve productivity based on metrics and milestones"
           ]
-        },
-        {
-          "name": "VA.gov Profile team",
-          "canHide":true,
-          "technology":[],
-          "responsibilities":[]
         }
       ]
     },
