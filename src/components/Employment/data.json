@@ -2,109 +2,83 @@
 {
   "jobs": [
     {
-      "company": "Department of Veterans Affairs",
+      "company": "Department of Veterans Affairs, Office of the CTO",
       "position":"Staff+ Engineer, Digital Services Expert, US Digital Service",
       "location": "Remote",
       "website": "https://www.va.gov",
       "startDate": "2022-07-19",
-      "summary":"Provide engineering leadership to modernized the technical capabilities of the Office of the CTO for the Department of Veterans Affairs",
+      "summary":"Provide engineering leadership for the VA to modernized healthcare access for Veterans",
       "projects":[
        
         { 
-          "name": "MHV on va.gov - Patient Portal",
+          "name": "MHV on va.gov - Untethered Patient Portal",
+          "summary": "Engineer supporting the Veteran facing experience for one of the largest healthcare providers in America to a single untethered patient portal",
           "technology":[
-            "Communication",
-            "Leadership",
-            "Remote working",
-            "System Design",
-            "API First Design",
-            "React",
-            "Typescript", 
-            "web components",
+            "JavaScript (React)",
+            "Typescript (React Native)", 
             "Ruby", 
             "AWS",
-            "Datadog", 
-            ".NET"
+            "Java", 
+            "FHIR", 
+            "Docker",
+            "Kubernetes"
           ],
-          "responsibilities":[
-            "Key team member charged with providing technical leadership of the new Patient Portal for the VA (the largest health care system in the US)",
-            "Technical lead for 5 teams consisting of approx 30 engineers",
-            "Oversaw multiple projects to migrate from the classic system to modern tech stack",
-            "Removed roadblocks for teams to ensure that they could deliver on time",
-            "Provided hands on keyboard surge support",
-            "Created and aligned multiple development teams to Dept.-wide best practices",
-            "Provided insight and estimations for quarterly planning and roadmap creation",
-            "Created modules to track user statistics to help drive business decisions and improve user experience",
-            "Developed and iterated on shared platform tools to enhance user experience and reduce development time for other teams"
-          ]   
-        },
-        { 
-          "name": "MHV on va.gov - Accelerated Integration",
-          "technology":[
-            "Communication",
-            "Leadership",
-            "Remote working",
+          "tools":[
+            "AI Agentic Coding",
+            "Project Planning",
+            "Remote Working",
             "System Design",
             "API First Design",
-            "React",
-            "React Native", 
-            "Typescript",
-            "Ruby", 
-            "AWS",
             "Datadog",
-            "FHIR"
+            "CI/CD",
+            "FHIR (Oracle Health)",
+            "VistA"
           ],
           "responsibilities":[
-            "Part of a tiger team to develop and integration patient health data from multiple sources.",
-            "Heavily leaned in agile methodology to deliver value quickly in a usually slow moving organization",
-            "Built and designed the architecture with a hyper focused on how to deliver value today and challenge the status quo",
-            "Developed UIs for Veterans to view their vaccinations, allergies, and labs results, all in one place from multiple data sources",
-            "Created new mobile components to allow Veterans to see their health data in their mobile application",
-            "Worked with end users to ensure data was accurate and easy to understand"
-          ]
+              "Technical Leadership for approximately a dozen teams (~30 engineers) by creating alignment across teams and other stakeholders on prioritizing modern best practices including maintaining coding quality, managing technical debt, and creating efficient systems",
+              "Acted as an advocate and aligned across teams and departments to use AI tools, modern development practices and industry standards",              
+              "by using delivery as a strategy, developed the integrated health portal on web and mobile platforms with multiple EHR datasources",
+              "Developed UIs for Veterans to timely and easily view their health record data, such as vaccinations, allergies, and labs results",
+              "Provided Architecture and technical direction for the platform migration",
+              "Acted as surge support by removing roadblocks, doing tip of spear feature building and providing an extra engineering resource to meet deadlines",
+              "Implemented metrics  around usage, performance and latency to help drive product decisions",
+              "Developed and iterated on shared platform tools to enhance user experience and reduce development time for other teams" ,
+              "Heavily leaned on agile methodology to deliver value value quickly and challenger the status quo in a usually slow moving organization",
+              "Worked with SMEs and end users to validate assumptions and test systems before doing a phased rollout"
+            ]
         },
         {
           "name": "Travel Pay to va.gov migration",
+          "summary":"Engineering Stakeholder overseeing the migration of the Beneficiary Travel system, that supports millions of claims per year, to multiple applications on in the va.gov ecosystem",
           "technology":[
-            "Communication",
-            "Leadership",
-            "Remote working",
-            "System Design",
-            "API First Design",
-            "React",
+            "JavaScript (React)",
+            "Typescript (React Native)", 
             "Ruby", 
             "AWS",
-            "Datadog", 
-            ".NET"
+            "Azure",
+            "C#",  
+            "Docker",
+            "Kubernetes"
+          ],
+          "tools":[
+            "AI Agentic Coding",
+            "Project Planning",
+            "Remote Working",
+            "System Design",
+            "API First Design",
+            "Datadog",
+            "CI/CD"
           ],
           "responsibilities":[
-            "Technical lead and architect for 3 teams consisting of approx 25 engineers working on multiple projects to migrate the Travel Pay system to va.gov",
+            "Technical Leadership for 3 teams (~12 engineers) by creating alignment across teams and other stakeholders on prioritizing modern best practices including maintaining coding quality, managing technical debt, and creating efficient systems",
             "Designed system of API first components to allow for easy integrations with other systems, including kiosks, websites and mobile apps",
-            "Lead a cross department initiative to integrate Veterans Travel Benefits into the existing Patient Check In Application",
             "Coordinated and captured requirements from stakeholder across multiple different offices into design documents and tickets for development teams",
-            "Developed performant, fault tolerant system that built to handle processing of thousands of claims per day",
+            "Developed performant, user friendly, fault tolerant system that built to handle processing of thousands of claims per day",
             "Worked with front line staff to roll out a pilot program before a full scale roll out",
-            "Developed monitoring tools for analytics to ensure that value was being added",
-            "Created and aligned multiple development teams to Department wide best practices"
+            "Developed monitoring tools for analytics to help inform product decisions"
           ]
-        },
-        {
-          "name": "Oracle Health Integration",
-          "technology":[
-            "System Design",
-            "Communication",
-            "Leadership",
-            "Remote working",
-            "Design for Redundancy",
-            "Database Design"
-            ], 
-          "responsibilities":[
-            "Advised team on building a new integration point for Veterans health records", 
-            "Created an architect that allows flexibility to meet stakeholder requirement", 
-            "Provided Technical knowledge and support to enable product managers to make informed decisions",
-            "Represented government interested when liaising with contractors"
-         ]
         }
+       
       ]
     },
     {
