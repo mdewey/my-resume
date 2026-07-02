@@ -64,13 +64,13 @@ const ContactInfo = () => {
       <section className="contact-info">
         {!showAll && (
           <ContactSection
-            icon="fab fa-github"
+            icon="fab fa-linkedin-in"
             data="https://www.linkedin.com/in/mark-dewey/"
           />
         )}
         {!showAll && (
           <ContactSection
-            icon="fab fa-linkedin-in"
+            icon="fab fa-github"
             data="https://github.com/mdewey"
           />
         )}
