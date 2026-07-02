@@ -19,7 +19,7 @@ module.exports = {
       resolve: `gatsby-plugin-robots-txt`,
       options: {
         host: siteUrl,
-        sitemap: `${siteUrl}/sitemap-index.xml`,
+        sitemap: `${siteUrl}/sitemap/sitemap-index.xml`,
         // Explicitly welcome general and AI crawlers to index the resume.
         policy: [
           { userAgent: `*`, allow: `/` },
