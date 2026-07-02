@@ -32,6 +32,7 @@ const ContactInfo = () => {
                 href="https://www.linkedin.com/in/mark-dewey/"
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="LinkedIn"
               >
                 <span className="no-print">
                   <i className="fab fa-linkedin-in"></i>
@@ -47,6 +48,7 @@ const ContactInfo = () => {
                 href="https://github.com/mdewey"
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="GitHub"
               >
                 <span className="no-print">
                   <i className="fab fa-github no-print"></i>{" "}
